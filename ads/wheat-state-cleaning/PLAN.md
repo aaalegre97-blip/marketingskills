@@ -24,7 +24,12 @@ Full Home Transformation: a full deep clean of the whole house. Miss a spot and 
 - Trust strip (pick by what is true): if the Google rating is confirmed with 15+ reviews, "5★ · [count] Google reviews" using the real count. Otherwise "Lawrence · Topeka · JoCo · KCK" (same words as the description; "KC area" would invite Missouri). **[CONFIRM rating + count]**
 
 **Meta fields:**
-- Primary text: "You work all week. Saturday shouldn't be scrubbing a tub. We deep clean the whole house. If we miss anything, we come back and redo it free. Tap below for your price."
+- Primary text:
+  > Pull back the curtain after the cleaner leaves. That's where the skipped spots are. Miss one? We come back and redo it free.
+  >
+  > We deep clean the whole house, tub included. You check it when you get home. If anything got skipped, tell us and we're back.
+  >
+  > Lawrence, Topeka, Johnson County and KCK. Tap below for your Full Home Deep Clean price.
 - Headline: "Get Your Full Home Deep Clean Price" (35 chars; the image carries the guarantee, so the headline names what tapping gets them). Follow-up scripts must use the same name: "Full Home Deep Clean".
 - Description: "Lawrence · Topeka · JoCo · KCK" (30 chars)
 - CTA button: Get Quote
@@ -35,11 +40,18 @@ Full Home Transformation: a full deep clean of the whole house. Miss a spot and 
 - Support line, labels, logo and trust strip: same as Ad 1
 
 **Meta fields:**
-- Primary text: "You clean it. Three days later you're cleaning it again. We deep clean the whole house, then keep it that way on a schedule. If we miss anything, we come back and redo it free. Tap below for your price."
+- Primary text:
+  > The cleaning takes all afternoon. By the time you're done, they've stopped asking.
+  >
+  > We deep clean the whole house so Saturday goes back to them. Then we keep it that way on a schedule. Miss a spot? We come back and redo it free.
+  >
+  > Lawrence, Topeka, Johnson County and KCK. Tap below for your Full Home Deep Clean price.
 - Headline, description and CTA: same as Ad 1
 
 ## Ad 3: Ceiling fan (DROPPED)
 Cut from launch. The change in the photo is mostly lighting, so it proves little, and a third ad splits a $30/day budget too thin. Revisit with a stronger photo once budget rises.
+
+Primary text rule: open on the beat after the image hook (never repeat it), and get the offer inside the first ~125 characters.
 
 ## Image rules
 - Size: 1080x1080
