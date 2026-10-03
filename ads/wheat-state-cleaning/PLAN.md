@@ -17,7 +17,7 @@ Full Home Transformation: a full deep clean of the whole house. Miss a spot and 
 
 ## Ad 1: Bathtub
 **Text on image:**
-- Headline: "You close the shower curtain when people come over."
+- Headline: "You haven't taken a bath in your own tub since you moved in."
 - Support line: "Whole-home deep clean. Miss a spot? We redo it free."
 - Labels: Before / After
 - Logo: small, top corner
@@ -31,7 +31,7 @@ Full Home Transformation: a full deep clean of the whole house. Miss a spot and 
 
 ## Ad 2: Toilet
 **Text on image:**
-- Headline: "You scrub it Sunday. It's back by Wednesday."
+- Headline: "You Googled \"how to get rid of the toilet ring\" at 11pm."
 - Support line, labels, logo and trust strip: same as Ad 1
 
 **Meta fields:**
@@ -71,6 +71,7 @@ Cut from launch. The change in the photo is mostly lighting, so it proves little
 - **Bookings are a gut check, not a verdict:** if the winner books zero out of 8+ leads, investigate (lead quality, follow-up, offer) before scaling.
 - **Scale:** raise the budget on the winner by 20% every 3 days.
 - **Next test:** keep the winning photo and test 1 new headline. Run the challenger in its own ad set (same targeting) at a fixed $10/day for 7 days, then compare cost per lead with the winner. Don't add it to the winner's ad set; Meta would starve it.
+- **Round 2 headline challengers:** Ad 1 "Your in-laws land Friday. This is your tub." Ad 2 "You pay someone to do your taxes. Why are you scrubbing this?"
 - **Round 2 photo:** use a non-bathroom room (kitchen, stovetop, baseboards). Round 1 is two bathroom shots, so it tests hooks, not angles.
 
 ## Track weekly
