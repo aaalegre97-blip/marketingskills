@@ -6,7 +6,7 @@ Items marked **[CONFIRM]** need an answer before launch.
 - **Objective:** Leads
 - **Conversion location:** Instant form (prices stay off the ads)
 - **Structure:** 1 campaign, 1 ad set, 2 ads (bathtub + toilet; one photo each, same offer, different hook). Fan ad dropped: weakest proof, and 2 ads gives each about $105/week instead of $70.
-- **Location:** Lawrence, Topeka, Lenexa, Olathe, Overland Park, Kansas City KS, with about a 15-mile radius **[CONFIRM]**
+- **Location:** Kansas side only. Lawrence and Topeka with a radius (no state line nearby). Lenexa, Olathe, Overland Park and Kansas City KS targeted by city or ZIP name, with **no radius around the KC metro** (a radius spills into KCMO, Independence and North Kansas City). **[CONFIRM ZIP list]**
 - **Audience:** broad / Advantage+, ages 28–60. No interest targeting; let the creative find the busy professionals.
 - **Placements:** Advantage+ (Feed, Stories, Reels)
 - **Budget:** $30/day to start **[CONFIRM]**
@@ -21,10 +21,10 @@ Full Home Transformation: a full deep clean of the whole house. Miss a spot and 
 - Support line: "Whole-home deep clean. Miss a spot? We redo it free."
 - Labels: Before / After
 - Logo: small, top corner
-- Trust strip (pick by what is true): if the Google rating is confirmed with 15+ reviews, "5★ · [count] Google reviews" using the real count. Otherwise "Lawrence · Topeka · KC area". **[CONFIRM rating + count]**
+- Trust strip (pick by what is true): if the Google rating is confirmed with 15+ reviews, "5★ · [count] Google reviews" using the real count. Otherwise "Lawrence · Topeka · JoCo · KCK" (same words as the description; "KC area" would invite Missouri). **[CONFIRM rating + count]**
 
 **Meta fields:**
-- Primary text: "You work all week. Saturday shouldn't be scrubbing a tub. We deep clean the whole house, top to bottom. If we miss anything, we come back and redo it free. Tap below for your price."
+- Primary text: "You work all week. Saturday shouldn't be scrubbing a tub. We deep clean the whole house. If we miss anything, we come back and redo it free. Tap below for your price."
 - Headline: "Get Your Full Home Deep Clean Price" (35 chars; the image carries the guarantee, so the headline names what tapping gets them). Follow-up scripts must use the same name: "Full Home Deep Clean".
 - Description: "Lawrence · Topeka · JoCo · KCK" (30 chars)
 - CTA button: Get Quote
@@ -62,7 +62,7 @@ Cut from launch. The change in the photo is mostly lighting, so it proves little
   7. Interested in regular cleanings? (Yes / Maybe / Just once). Keep "Maybe" in the pipeline. "Just once" leads go to a GHL text sequence that pitches the recurring plan (default until a one-time price is decided). Do not list frequencies until the offered ones are confirmed. **[CONFIRM frequencies + one-time price decision]**
 - **Thank-you screen:** "Got it. We'll text you in the next few minutes."
 - **Thank-you button:** "Call us now", dialing (785) 592-3337
-- **Lead routing:** form goes to GHL, which sends an automatic text within 60 seconds and assigns a human follow-up for the same day **[CONFIRM workflow is built]**
+- **Lead routing:** form goes to GHL, which sends an automatic text within 60 seconds and assigns a human follow-up for the same day. If the ZIP is outside the service area, GHL auto-texts "Sorry, we're not in your area yet" and no follow-up task is created. **[CONFIRM workflow is built]**
 
 ## Testing plan
 - **Days 1–7:** let both run. Don't touch anything.
@@ -70,7 +70,8 @@ Cut from launch. The change in the photo is mostly lighting, so it proves little
 - **Day 7 check:** kill an ad with no leads after $70 spent, or with cost per lead 2x the other ad's and a lower contact rate.
 - **Bookings are a gut check, not a verdict:** if the winner books zero out of 8+ leads, investigate (lead quality, follow-up, offer) before scaling.
 - **Scale:** raise the budget on the winner by 20% every 3 days.
-- **Next test:** keep the winning photo and test 3 new headlines against it.
+- **Next test:** keep the winning photo and test 1 new headline. Run the challenger in its own ad set (same targeting) at a fixed $10/day for 7 days, then compare cost per lead with the winner. Don't add it to the winner's ad set; Meta would starve it.
+- **Round 2 photo:** use a non-bathroom room (kitchen, stovetop, baseboards). Round 1 is two bathroom shots, so it tests hooks, not angles.
 
 ## Track weekly
 - Cost per lead
@@ -88,3 +89,4 @@ Cut from launch. The change in the photo is mostly lighting, so it proves little
 7. Which recurring frequencies WSC actually offers
 8. One-time deep clean price: yes or no (until decided, "Just once" leads get the plan-pitch text sequence)
 9. Privacy policy URL live on wheatstatecleaning.com (Meta instant forms require it)
+10. Kansas-side ZIP list for targeting and the out-of-area auto-text
