@@ -18,15 +18,15 @@ Full Home Transformation: a full deep clean of the whole house. Miss a spot and 
 ## Ad 1: Bathtub
 **Text on image:**
 - Headline: "You close the shower curtain when people come over."
-- Support line: "We deep clean the whole house. Miss a spot? We come back and redo it free."
+- Support line: "Whole-home deep clean. Miss a spot? We redo it free."
 - Labels: Before / After
 - Logo: small, top corner
-- Trust strip: "5★ on Google · Lawrence · Topeka · Johnson County" **[CONFIRM]**
+- Trust strip: "5★ on Google · Lawrence · Topeka · Johnson County · KCK" **[CONFIRM]**
 
 **Meta fields:**
 - Primary text: "You work all week. Saturday shouldn't be scrubbing a tub. We deep clean the whole house, top to bottom. If we miss anything, we come back and redo it free. Tap below for your price."
-- Headline: "Full Home Deep Clean. Miss a Spot? We Redo It Free."
-- Description: "Lawrence · Topeka · Johnson County"
+- Headline: "Miss a Spot? We Redo It Free." (29 chars, fits before the mobile cutoff)
+- Description: "Lawrence · Topeka · Johnson County · KCK"
 - CTA button: Get Quote
 
 ## Ad 2: Toilet
@@ -35,7 +35,7 @@ Full Home Transformation: a full deep clean of the whole house. Miss a spot and 
 - Support line, labels, logo and trust strip: same as Ad 1
 
 **Meta fields:**
-- Primary text: "You clean it. Three days later you're cleaning it again. We deep clean the whole house so it stays clean longer. If we miss anything, we come back and redo it free. Tap below for your price."
+- Primary text: "You clean it. Three days later you're cleaning it again. We deep clean the whole house, then keep it that way on a schedule. If we miss anything, we come back and redo it free. Tap below for your price."
 - Headline, description and CTA: same as Ad 1
 
 ## Ad 3: Ceiling fan **[CONFIRM: keep, or swap for a stronger photo]**
@@ -64,15 +64,16 @@ Full Home Transformation: a full deep clean of the whole house. Miss a spot and 
   3. Email
   4. ZIP code
   5. Bedrooms / bathrooms (multiple choice)
-  6. When do you want your clean? (This week / Next 2 weeks / Just pricing)
-- **Thank-you screen:** "Got it. We'll text you your price within [X hours]." **[CONFIRM]**
+  6. How often do you want help? (Every week / Every 2 weeks / Monthly / Just once). Route "Just once" answers separately; they don't fit the 3-visit gate.
+- **Thank-you screen:** "Got it. We'll text you in the next few minutes."
 - **Thank-you button:** "Call us now", dialing (785) 592-3337
-- **Lead routing:** form goes to GHL, which sends an instant text and assigns a follow-up task **[CONFIRM workflow]**
+- **Lead routing:** form goes to GHL, which sends an automatic text within 60 seconds and assigns a human follow-up for the same day **[CONFIRM workflow is built]**
 
 ## Testing plan
 - **Days 1–7:** let all 3 run. Don't touch anything.
 - **Decision point:** after each ad has spent about $70–100, or on day 7.
-- **Kill:** any ad with cost per lead 2x higher than the best ad, or with no leads after $70 spent.
+- **Early check (CPL):** any ad with no leads after $70 spent gets killed.
+- **Day 7 kill (booked):** judge on cost per **booked** clean, not cost per lead. Kill any ad whose cost per booked clean is 2x the best ad's, or that has leads but zero bookings.
 - **Scale:** raise the budget on the winner by 20% every 3 days.
 - **Next test:** keep the winning photo and test 3 new headlines against it.
 
@@ -88,5 +89,4 @@ Full Home Transformation: a full deep clean of the whole house. Miss a spot and 
 3. Google rating and city list
 4. Guarantee wording sign-off
 5. Daily budget
-6. How fast we text back after a form fill
-7. GHL workflow for the instant form
+6. GHL workflow built: 60-second auto-text plus same-day human follow-up
