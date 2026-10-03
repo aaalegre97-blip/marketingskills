@@ -6,11 +6,11 @@ Items marked **[CONFIRM]** need an answer before launch.
 - **Objective:** Leads
 - **Conversion location:** Instant form (prices stay off the ads)
 - **Structure:** 1 campaign, 2 ad sets at $15/day each (one ad per ad set, same targeting) so both ads get equal spend during the test. Merge the winner into one ad set after day 7–10. 2 ads (bathtub + toilet; one photo each, same offer, different hook). Fan ad dropped: weakest proof, and 2 ads gives each about $105/week instead of $70.
-- **Location:** Lawrence, KS only, with a radius around the city (about 10 miles). **[CONFIRM radius]** Matches the ads, which only say "Lawrence, KS." Watch frequency: Lawrence is a small audience, so if frequency passes 2.5 in a week, refresh creative before raising budget.
+- **Location:** Lawrence, KS, 30-mile radius (Alan, 2026-10-03). Note: 30 miles reaches Topeka and western Johnson County while the ads only say "Lawrence, KS." Matches the ads, which only say "Lawrence, KS." Watch frequency: Lawrence is a small audience, so if frequency passes 2.5 in a week, refresh creative before raising budget.
 - **Audience:** broad / Advantage+, ages 28–60. No interest targeting; let the creative find the busy professionals.
 - **Placements:** Advantage+ (Feed, Stories, Reels). Upload per placement: 1080x1350 for Feed, 1080x1920 for Stories/Reels, 1080x1080 as fallback.
 - **Advantage+ creative enhancements: all OFF** (especially "expand image" and visual touch-ups). AI-generated fill around real before/after photos is a trust and policy risk.
-- **Budget:** $30/day to start **[CONFIRM]**
+- **Budget:** $30/day (confirmed), split $15/day per ad set during the test
 - **Pixel:** WSC Pixel 1387712950066071
 
 ## The offer (same on both ads)
@@ -81,7 +81,7 @@ Primary text rule: open on the beat after the image hook (never repeat it), and 
   4. ZIP code
   5. Bedrooms / bathrooms (multiple choice)
   6. When do you want your clean? (This week / Next 2 weeks / Just pricing). Call "This week" leads first. "Just pricing" leads: a person quotes them the same day (no price sheet), one follow-up after 48 hours, and any "no" or "STOP" ends all texts. A 1★ review already says WSC "will absolutely hound you" for a quote.
-  7. Interested in regular cleanings? (Yes / Maybe / Just once). Keep "Maybe" in the pipeline. "Just once" leads go to a GHL text sequence that pitches the recurring plan (default until a one-time price is decided). Offered frequencies (confirmed): weekly, every 2 weeks, monthly. **[CONFIRM one-time price decision]**
+  7. Interested in regular cleanings? (Yes / Maybe / Just once). Keep "Maybe" in the pipeline. "Just once" leads go to a GHL text sequence that pitches the recurring plan (default until a one-time price is decided). Offered frequencies (confirmed): weekly, every 2 weeks, monthly. No one-time price (Alan, 2026-10-03): "Just once" leads get the recurring-plan pitch through the existing GHL follow-up.
 - **Thank-you screen:** "Got it. We'll text you in the next few minutes."
 - **Thank-you button:** "Call us now", dialing (785) 592-3337
 - **Lead routing:** form goes to GHL and into Alan's existing follow-up (already built; no new SMS sequences needed). Make sure it follows two rules: "Just pricing" leads get one follow-up after the quote, and any "no" or STOP ends all texts. Leads outside the Lawrence area get a polite "not in your area yet" reply.
@@ -103,11 +103,8 @@ Primary text rule: open on the beat after the image hook (never repeat it), and 
 - Booked to recurring (3-visit gate) rate
 - CTR (link) and thumb-stop rate (3-second video views don't apply to statics, so use CTR plus comments)
 
+## Launch status
+Confirmed 2026-10-03: guarantee wording, $30/day budget, A2P 10DLC + SMS consent, no one-time price, privacy policy URL live, 30-mile radius.
+
 ## Open items before launch
-1. Guarantee wording sign-off
-2. Daily budget
-3. A2P 10DLC registration done in GHL, and SMS consent wording added to the instant form
-4. One-time deep clean price: yes or no (until decided, "Just once" leads get the plan-pitch text sequence)
-5. Privacy policy URL live on wheatstatecleaning.com (Meta instant forms require it)
-6. Lawrence radius in miles (about 10 suggested)
-7. Toilet "after" photo: ask the cleaner who did that job whether the orange line under the rim is a permanent stain
+1. Toilet "after" photo: ask the cleaner who did that job whether the orange line under the rim is a permanent stain
