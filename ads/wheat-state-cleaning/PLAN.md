@@ -17,8 +17,8 @@ Full Home Transformation: a full deep clean of the whole house. Miss a spot and 
 
 ## Ad 1: Bathtub
 **Text on image:**
-- Headline: "You haven't taken a bath in your own tub since you moved in."
-- Support line: "Whole-home deep clean. Miss a spot? We redo it free."
+- Headline: "Your last cleaner \"did the bathroom.\" Nobody touched the tub." (guarantee-led)
+- Support line: "Miss a spot? We redo it free." (offer name lives in the Meta headline and primary text)
 - Labels: Before / After
 - Logo: small, top corner
 - Trust strip (pick by what is true): if the Google rating is confirmed with 15+ reviews, "5★ · [count] Google reviews" using the real count. Otherwise "Lawrence · Topeka · JoCo · KCK" (same words as the description; "KC area" would invite Missouri). **[CONFIRM rating + count]**
@@ -31,7 +31,7 @@ Full Home Transformation: a full deep clean of the whole house. Miss a spot and 
 
 ## Ad 2: Toilet
 **Text on image:**
-- Headline: "You Googled \"how to get rid of the toilet ring\" at 11pm."
+- Headline: "Your kid asks you to play. You say, \"After I clean.\"" (busy professionals, time with family)
 - Support line, labels, logo and trust strip: same as Ad 1
 
 **Meta fields:**

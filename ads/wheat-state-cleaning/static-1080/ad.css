@@ -11,9 +11,9 @@
 html, body { width: 1080px; height: 1080px; background: var(--paper); overflow: hidden; }
 body { font-family: -apple-system, "Segoe UI", Helvetica, Arial, "Liberation Sans", sans-serif; color: var(--ink); }
 .hook {
-  position: absolute; left: 100px; right: 100px; top: 48px; height: 170px;
+  position: absolute; left: 100px; right: 100px; top: 40px; height: 184px;
   display: flex; align-items: center;
-  font-size: 58px; line-height: 1.12; font-weight: 800; letter-spacing: -1px; text-wrap: balance;
+  font-size: 54px; line-height: 1.1; font-weight: 800; letter-spacing: -1px; text-wrap: balance;
 }
 .panels { position: absolute; left: 0; right: 0; top: 236px; height: 590px; display: flex; gap: 6px; }
 .panel { flex: 1; position: relative; overflow: hidden; }
@@ -24,8 +24,8 @@ body { font-family: -apple-system, "Segoe UI", Helvetica, Arial, "Liberation San
   background: rgba(255, 255, 255, 0.92); color: var(--ink);
 }
 .tag.after { background: var(--wsc-blue); color: #fff; }
-.foot { position: absolute; left: 100px; right: 100px; top: 850px; text-align: center; }
-.support { font-size: 38px; line-height: 1.2; font-weight: 600; }
+.foot { position: absolute; left: 100px; right: 100px; top: 862px; text-align: center; }
+.support { font-size: 46px; line-height: 1.2; font-weight: 600; }
 .support b { display: block; }
 .support b { color: var(--wsc-blue); }
 .strip { margin-top: 10px; font-size: 26px; color: var(--muted); letter-spacing: 0.3px; }
