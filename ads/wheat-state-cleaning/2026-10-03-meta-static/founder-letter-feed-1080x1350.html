@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>WSC Founder Letter, Feed 4:5</title>
+<!--
+  Wheat State Cleaning, Concept 1 "Founder Letter", Feed 1080x1350 (4:5).
+  No external assets. System fonts only. Export: node export-png.mjs
+  To add Alan's real photo: drop alan.jpg next to this file. The initial shows until then.
+  Brand hex codes are NOT set on purpose (not sampled from the logo yet). The look is neutral "typed note".
+-->
+<style>
+  :root {
+    --paper: #fbfaf6;
+    --ink: #1d1d1b;
+    --muted: #6b6a66;
+    --rule: #e4e1d8;
+    --marker: #fff09a; /* highlighter, not a brand color */
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 1080px; height: 1350px; background: var(--paper); }
+  body {
+    font-family: -apple-system, "Segoe UI", Helvetica, Arial, "Liberation Sans", sans-serif;
+    color: var(--ink);
+  }
+  .ad {
+    width: 1080px; height: 1350px;
+    padding: 96px 104px 84px;
+    display: flex; flex-direction: column;
+  }
+  .from { display: flex; align-items: center; gap: 26px; padding-bottom: 40px; border-bottom: 2px solid var(--rule); }
+  .avatar {
+    width: 96px; height: 96px; border-radius: 50%; flex: none;
+    background: #d9d6cc url("alan.jpg") center/cover no-repeat;
+    display: grid; place-items: center;
+    font-size: 44px; font-weight: 700; color: #fff;
+  }
+  .from b { display: block; font-size: 36px; }
+  .from span { font-size: 28px; color: var(--muted); }
+  .letter { flex: 1; display: flex; flex-direction: column; justify-content: center; padding: 52px 0; font-size: 50px; line-height: 1.36; letter-spacing: -0.2px; }
+  .letter p + p { margin-top: 34px; }
+  .steps { margin-top: 34px; }
+  .steps div { padding-left: 40px; position: relative; }
+  .steps div::before { content: "\2022"; position: absolute; left: 6px; color: var(--muted); }
+  mark { background: linear-gradient(transparent 12%, var(--marker) 12%, var(--marker) 92%, transparent 92%); color: inherit; padding: 0 4px; }
+  .sig { margin-top: 44px; font-family: "Bradley Hand", "Segoe Script", "Snell Roundhand", Georgia, serif; font-style: italic; font-size: 64px; }
+  .areas { font-size: 26px; color: var(--muted); }
+</style>
+</head>
+<body>
+<div class="ad">
+  <div class="from">
+    <div class="avatar">A</div>
+    <div>
+      <b>A note from the owner</b>
+      <span>Wheat State Cleaning · Lawrence, KS</span>
+    </div>
+  </div>
+
+  <div class="letter">
+    <p>I'm Alan. I run Wheat State Cleaning.</p>
+    <p>Ever paid a cleaner, then spent Sunday redoing the baseboards yourself?</p>
+    <div class="steps">
+      <div>We deep clean the whole house.</div>
+      <div>You check it when you get home.</div>
+      <div><mark>Miss a spot? We come back and redo it&nbsp;free.</mark></div>
+    </div>
+    <div class="sig">Alan</div>
+  </div>
+
+  <div class="areas">Lawrence · Topeka · Lenexa · Olathe · Overland Park</div>
+</div>
+</body>
+</html>
