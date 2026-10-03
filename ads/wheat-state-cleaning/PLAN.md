@@ -5,14 +5,14 @@ Items marked **[CONFIRM]** need an answer before launch.
 ## Campaign setup
 - **Objective:** Leads
 - **Conversion location:** Instant form (prices stay off the ads)
-- **Structure:** 1 campaign, 1 ad set, 3 ads (one photo each, same offer, different hook)
+- **Structure:** 1 campaign, 1 ad set, 2 ads (bathtub + toilet; one photo each, same offer, different hook). Fan ad dropped: weakest proof, and 2 ads gives each about $105/week instead of $70.
 - **Location:** Lawrence, Topeka, Lenexa, Olathe, Overland Park, Kansas City KS, with about a 15-mile radius **[CONFIRM]**
 - **Audience:** broad / Advantage+, ages 28–60. No interest targeting; let the creative find the busy professionals.
 - **Placements:** Advantage+ (Feed, Stories, Reels)
 - **Budget:** $30/day to start **[CONFIRM]**
 - **Pixel:** WSC Pixel 1387712950066071
 
-## The offer (same on all 3 ads)
+## The offer (same on both ads)
 Full Home Transformation: a full deep clean of the whole house. Miss a spot and we come back and redo it free. No prices on the ads.
 
 ## Ad 1: Bathtub
@@ -21,12 +21,12 @@ Full Home Transformation: a full deep clean of the whole house. Miss a spot and 
 - Support line: "Whole-home deep clean. Miss a spot? We redo it free."
 - Labels: Before / After
 - Logo: small, top corner
-- Trust strip: "5★ on Google" only, no cities on the image (keeps it under ~25 words; cities live in the description and targeting). Drop the strip if 5★ is not confirmed. **[CONFIRM]**
+- Trust strip (pick by what is true): if the Google rating is confirmed with 15+ reviews, "5★ · [count] Google reviews" using the real count. Otherwise "Lawrence · Topeka · KC area". **[CONFIRM rating + count]**
 
 **Meta fields:**
 - Primary text: "You work all week. Saturday shouldn't be scrubbing a tub. We deep clean the whole house, top to bottom. If we miss anything, we come back and redo it free. Tap below for your price."
-- Headline: "Your Full Home Deep Clean Price" (31 chars; the image carries the guarantee, so the headline names what tapping gets them)
-- Description: "Lawrence · Topeka · Johnson County · KCK"
+- Headline: "Get Your Full Home Deep Clean Price" (35 chars; the image carries the guarantee, so the headline names what tapping gets them). Follow-up scripts must use the same name: "Full Home Deep Clean".
+- Description: "Lawrence · Topeka · JoCo · KCK" (30 chars)
 - CTA button: Get Quote
 
 ## Ad 2: Toilet
@@ -38,14 +38,8 @@ Full Home Transformation: a full deep clean of the whole house. Miss a spot and 
 - Primary text: "You clean it. Three days later you're cleaning it again. We deep clean the whole house, then keep it that way on a schedule. If we miss anything, we come back and redo it free. Tap below for your price."
 - Headline, description and CTA: same as Ad 1
 
-## Ad 3: Ceiling fan **[CONFIRM: keep, or swap for a stronger photo]**
-**Text on image:**
-- Headline: "You notice it every night when you lie down."
-- Support line, labels, logo and trust strip: same as Ad 1
-
-**Meta fields:**
-- Primary text: "Fan blades. Baseboards. The top of the fridge. The spots you see every day and never get to. We deep clean the whole house. If we miss anything, we come back and redo it free. Tap below for your price."
-- Headline, description and CTA: same as Ad 1
+## Ad 3: Ceiling fan (DROPPED)
+Cut from launch. The change in the photo is mostly lighting, so it proves little, and a third ad splits a $30/day budget too thin. Revisit with a stronger photo once budget rises.
 
 ## Image rules
 - Size: 1080x1080
@@ -65,16 +59,16 @@ Full Home Transformation: a full deep clean of the whole house. Miss a spot and 
   4. ZIP code
   5. Bedrooms / bathrooms (multiple choice)
   6. When do you want your clean? (This week / Next 2 weeks / Just pricing). Call "This week" leads first.
-  7. Interested in regular cleanings? (Yes / Maybe / Just once). Keep "Maybe" in the pipeline. Do not list frequencies until the offered ones are confirmed. **[CONFIRM frequencies]**
+  7. Interested in regular cleanings? (Yes / Maybe / Just once). Keep "Maybe" in the pipeline. "Just once" leads go to a GHL text sequence that pitches the recurring plan (default until a one-time price is decided). Do not list frequencies until the offered ones are confirmed. **[CONFIRM frequencies + one-time price decision]**
 - **Thank-you screen:** "Got it. We'll text you in the next few minutes."
 - **Thank-you button:** "Call us now", dialing (785) 592-3337
 - **Lead routing:** form goes to GHL, which sends an automatic text within 60 seconds and assigns a human follow-up for the same day **[CONFIRM workflow is built]**
 
 ## Testing plan
-- **Days 1–7:** let all 3 run. Don't touch anything.
-- **Decision point:** after each ad has spent about $70–100, or on day 7.
-- **Day 7 check:** judge on cost per lead **plus** contact rate (did they answer the text or call). Kill any ad with no leads after $70 spent, or with cost per lead 2x the best ad's and a lower contact rate.
-- **Day 21 or 15+ total bookings (whichever comes first):** judge on cost per **booked** clean. At $30/day, booked-clean counts before this are too small to compare.
+- **Days 1–7:** let both run. Don't touch anything.
+- **Pick the winner on:** cost per lead **plus** contact rate (did they answer the text or call). These are the only signals with enough volume at $30/day.
+- **Day 7 check:** kill an ad with no leads after $70 spent, or with cost per lead 2x the other ad's and a lower contact rate.
+- **Bookings are a gut check, not a verdict:** if the winner books zero out of 8+ leads, investigate (lead quality, follow-up, offer) before scaling.
 - **Scale:** raise the budget on the winner by 20% every 3 days.
 - **Next test:** keep the winning photo and test 3 new headlines against it.
 
@@ -86,10 +80,11 @@ Full Home Transformation: a full deep clean of the whole house. Miss a spot and 
 
 ## Open items before launch
 1. Raw photos without the baked-in graphics
-2. Fan photo: keep or swap
-3. Google rating and city list
-4. Guarantee wording sign-off
-5. Daily budget
-6. GHL workflow built: 60-second auto-text plus same-day human follow-up
-7. A2P 10DLC registration done in GHL, and SMS consent wording added to the instant form
-8. Which recurring frequencies WSC actually offers
+2. Google rating and review count (decides the trust strip)
+3. Guarantee wording sign-off
+4. Daily budget
+5. GHL workflow built: 60-second auto-text plus same-day human follow-up
+6. A2P 10DLC registration done in GHL, and SMS consent wording added to the instant form
+7. Which recurring frequencies WSC actually offers
+8. One-time deep clean price: yes or no (until decided, "Just once" leads get the plan-pitch text sequence)
+9. Privacy policy URL live on wheatstatecleaning.com (Meta instant forms require it)
