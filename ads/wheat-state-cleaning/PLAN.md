@@ -22,7 +22,7 @@ Full Home Transformation: a full deep clean of the whole house. Miss a spot and 
 - Support line: "Miss a spot? We redo it free." (offer name lives in the Meta headline and primary text)
 - Labels: Before / After
 - Logo: none (removed per Alan; the page name and photo already show above the ad)
-- Trust strip (pick by what is true): if the Google rating is confirmed with 15+ reviews, "5★ · [count] Google reviews" using the real count. Otherwise "Lawrence · Topeka · JoCo · KCK" (same words as the description; "KC area" would invite Missouri). **[CONFIRM rating + count]**
+- Trust strip: "4.9★ from 100+ Google reviews · A+ BBB · Lawrence, KS" (confirmed by Alan: 4.9 rating, 100+ Google reviews, A+ BBB rating). Say "A+ BBB" only, not "BBB Accredited," unless WSC is accredited.
 
 **Meta fields:**
 - Primary text:
@@ -30,9 +30,9 @@ Full Home Transformation: a full deep clean of the whole house. Miss a spot and 
   >
   > We deep clean the whole house, tub included. You check it when you get home.
   >
-  > Lawrence, Topeka, Johnson County and KCK. Tap below for your Full Home Deep Clean price.
+  > Lawrence, KS. Tap below for your Full Home Deep Clean price.
 - Headline: "Get Your Full Home Deep Clean Price" (35 chars; the image carries the guarantee, so the headline names what tapping gets them). Follow-up scripts must use the same name: "Full Home Deep Clean".
-- Description: "Lawrence · Topeka · JoCo · KCK" (30 chars)
+- Description: "Lawrence, KS"
 - CTA button: Get Quote
 
 ## Ad 2: Toilet
@@ -46,7 +46,7 @@ Full Home Transformation: a full deep clean of the whole house. Miss a spot and 
   >
   > We deep clean the whole house so Saturday goes back to them. Then we keep it that way on a schedule. Miss a spot? We come back and redo it free.
   >
-  > Lawrence, Topeka, Johnson County and KCK. Tap below for your Full Home Deep Clean price.
+  > Lawrence, KS. Tap below for your Full Home Deep Clean price.
 - Headline, description and CTA: same as Ad 1
 
 ## Ad 3: Ceiling fan (DROPPED)
@@ -56,7 +56,7 @@ Primary text rule: open on the beat after the image hook (never repeat it), and 
 
 ## Image rules
 - Sizes: 1080x1350 (Feed, 4:5), 1080x1920 (Stories/Reels, 9:16, all text inside y 270–1250), 1080x1080 (fallback)
-- Real WSC photos only, raw versions without the baked-in logo or pill bars **[NEED FILES]**
+- Real WSC photos only. Using the existing job graphics with the logo and pill bars cropped out; results are not edited.
 - No prices, no fake buttons, no more than about 25 words
 - Keep text at least 100px from the edges
 - Colors: WSC blue, green and light blue, sampled from the logo
@@ -94,13 +94,11 @@ Primary text rule: open on the beat after the image hook (never repeat it), and 
 - CTR (link) and thumb-stop rate (3-second video views don't apply to statics, so use CTR plus comments)
 
 ## Open items before launch
-1. Raw photos without the baked-in graphics
-2. Google rating and review count (decides the trust strip)
-3. Guarantee wording sign-off
-4. Daily budget
-5. GHL workflow built: 60-second auto-text plus same-day human follow-up
-6. A2P 10DLC registration done in GHL, and SMS consent wording added to the instant form
-7. Which recurring frequencies WSC actually offers
-8. One-time deep clean price: yes or no (until decided, "Just once" leads get the plan-pitch text sequence)
-9. Privacy policy URL live on wheatstatecleaning.com (Meta instant forms require it)
-10. Kansas-side ZIP list for targeting and the out-of-area auto-text
+1. Guarantee wording sign-off
+2. Daily budget
+3. GHL workflow built: 60-second auto-text plus same-day human follow-up
+4. A2P 10DLC registration done in GHL, and SMS consent wording added to the instant form
+5. Which recurring frequencies WSC actually offers
+6. One-time deep clean price: yes or no (until decided, "Just once" leads get the plan-pitch text sequence)
+7. Privacy policy URL live on wheatstatecleaning.com (Meta instant forms require it)
+8. Kansas-side ZIP list for targeting and the out-of-area auto-text
