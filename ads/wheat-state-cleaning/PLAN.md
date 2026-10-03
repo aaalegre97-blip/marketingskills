@@ -5,10 +5,11 @@ Items marked **[CONFIRM]** need an answer before launch.
 ## Campaign setup
 - **Objective:** Leads
 - **Conversion location:** Instant form (prices stay off the ads)
-- **Structure:** 1 campaign, 1 ad set, 2 ads (bathtub + toilet; one photo each, same offer, different hook). Fan ad dropped: weakest proof, and 2 ads gives each about $105/week instead of $70.
+- **Structure:** 1 campaign, 2 ad sets at $15/day each (one ad per ad set, same targeting) so both ads get equal spend during the test. Merge the winner into one ad set after day 7–10. 2 ads (bathtub + toilet; one photo each, same offer, different hook). Fan ad dropped: weakest proof, and 2 ads gives each about $105/week instead of $70.
 - **Location:** Kansas side only. Lawrence and Topeka with a radius (no state line nearby). Lenexa, Olathe, Overland Park and Kansas City KS targeted by city or ZIP name, with **no radius around the KC metro** (a radius spills into KCMO, Independence and North Kansas City). **[CONFIRM ZIP list]**
 - **Audience:** broad / Advantage+, ages 28–60. No interest targeting; let the creative find the busy professionals.
-- **Placements:** Advantage+ (Feed, Stories, Reels)
+- **Placements:** Advantage+ (Feed, Stories, Reels). Upload per placement: 1080x1350 for Feed, 1080x1920 for Stories/Reels, 1080x1080 as fallback.
+- **Advantage+ creative enhancements: all OFF** (especially "expand image" and visual touch-ups). AI-generated fill around real before/after photos is a trust and policy risk.
 - **Budget:** $30/day to start **[CONFIRM]**
 - **Pixel:** WSC Pixel 1387712950066071
 
@@ -27,7 +28,7 @@ Full Home Transformation: a full deep clean of the whole house. Miss a spot and 
 - Primary text:
   > Pull back the curtain after the cleaner leaves. That's where the skipped spots are. Miss one? We come back and redo it free.
   >
-  > We deep clean the whole house, tub included. You check it when you get home. If anything got skipped, tell us and we're back.
+  > We deep clean the whole house, tub included. You check it when you get home.
   >
   > Lawrence, Topeka, Johnson County and KCK. Tap below for your Full Home Deep Clean price.
 - Headline: "Get Your Full Home Deep Clean Price" (35 chars; the image carries the guarantee, so the headline names what tapping gets them). Follow-up scripts must use the same name: "Full Home Deep Clean".
@@ -54,7 +55,7 @@ Cut from launch. The change in the photo is mostly lighting, so it proves little
 Primary text rule: open on the beat after the image hook (never repeat it), and get the offer inside the first ~125 characters.
 
 ## Image rules
-- Size: 1080x1080
+- Sizes: 1080x1350 (Feed, 4:5), 1080x1920 (Stories/Reels, 9:16, all text inside y 270–1250), 1080x1080 (fallback)
 - Real WSC photos only, raw versions without the baked-in logo or pill bars **[NEED FILES]**
 - No prices, no fake buttons, no more than about 25 words
 - Keep text at least 100px from the edges

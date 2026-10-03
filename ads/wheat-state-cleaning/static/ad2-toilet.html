@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>WSC Toilet ad</title>
+<!-- Wheat State Cleaning, Toilet ad. Open with ?size=sq (1080x1080), ?size=feed (1080x1350) or ?size=story (1080x1920); add &guides to shade the Stories/Reels UI zones. Photos are crops of the real WSC job graphic (logo and pill bars cropped out, results not edited). -->
+<link rel="stylesheet" href="ad.css">
+</head>
+<body>
+  <div class="hook">Your kid asks you to play. You say, &ldquo;After I clean.&rdquo;</div>
+  <div class="panels">
+    <div class="panel"><img src="photos/toilet-before.jpg" alt="Before" style="object-position: center 70%"><span class="tag">Before</span></div>
+    <div class="panel"><img src="photos/toilet-after.jpg" alt="After" style="object-position: center 70%"><span class="tag after">After</span></div>
+  </div>
+  <div class="foot">
+    <div class="support"><b>Miss a spot? We redo it free.</b></div>
+    <div class="strip">Lawrence · Topeka · JoCo · KCK</div>
+  </div>
+  <div class="guides-wrap"></div>
+<script>
+  const q = new URLSearchParams(location.search);
+  const size = q.get("size") || "sq";
+  document.body.classList.add(size);
+  const h = { sq: 1080, feed: 1350, story: 1920 }[size];
+  document.documentElement.style.height = document.body.style.height = h + "px";
+  if (size === "story" && q.has("guides")) {
+    document.querySelector(".guides-wrap").outerHTML =
+      '<div class="guides" style="display:block"><i style="top:0;height:270px"></i><i style="top:1250px;height:670px"></i></div>';
+  }
+</script>
+</body>
+</html>

@@ -1,4 +1,5 @@
-/* Shared layout for WSC 1080x1080 before/after ads. System fonts only, no external assets. */
+/* Shared layout for WSC before/after ads in three sizes. System fonts only, no external assets.
+   Size is set by ?size=sq|feed|story on the URL (default sq). */
 :root {
   --wsc-blue: #0064ab;  /* sampled from the Before pill in the original WSC graphic */
   --wsc-green: #75d582; /* sampled from the After pill */
@@ -9,6 +10,8 @@
 }
 * { box-sizing: border-box; margin: 0; padding: 0; }
 html, body { width: 1080px; height: 1080px; background: var(--paper); overflow: hidden; }
+body.feed, body.feed html { height: 1350px; }
+body.story { height: 1920px; }
 body { font-family: -apple-system, "Segoe UI", Helvetica, Arial, "Liberation Sans", sans-serif; color: var(--ink); }
 .hook {
   position: absolute; left: 100px; right: 100px; top: 40px; height: 184px;
@@ -29,3 +32,22 @@ body { font-family: -apple-system, "Segoe UI", Helvetica, Arial, "Liberation San
 .support b { display: block; }
 .support b { color: var(--wsc-blue); }
 .strip { margin-top: 10px; font-size: 26px; color: var(--muted); letter-spacing: 0.3px; }
+
+/* ---- Feed 1080x1350 (4:5) ---- */
+.feed .hook { top: 70px; height: 230px; font-size: 62px; }
+.feed .panels { top: 330px; height: 760px; }
+.feed .tag { font-size: 34px; bottom: 28px; }
+.feed .foot { top: 1122px; }
+.feed .support { font-size: 52px; }
+.feed .strip { font-size: 30px; }
+
+/* ---- Stories/Reels 1080x1920 (9:16) ----
+   All text inside y 270-1250 and x 120-960. Top 270px and bottom 670px are covered by app UI. */
+.story .hook { left: 120px; right: 120px; top: 270px; height: 220px; font-size: 56px; }
+.story .panels { left: 40px; right: 40px; top: 510px; height: 590px; }
+.story .foot { left: 120px; right: 120px; top: 1118px; }
+.story .support { font-size: 46px; }
+.story .strip { font-size: 28px; }
+
+.guides { display: none; }
+.guides i { position: absolute; left: 0; width: 1080px; background: rgba(255, 0, 80, 0.18); }
