@@ -21,11 +21,11 @@ Full Home Transformation: a full deep clean of the whole house. Miss a spot and 
 - Support line: "Whole-home deep clean. Miss a spot? We redo it free."
 - Labels: Before / After
 - Logo: small, top corner
-- Trust strip: "5★ on Google · Lawrence · Topeka · Johnson County · KCK" **[CONFIRM]**
+- Trust strip: "5★ on Google" only, no cities on the image (keeps it under ~25 words; cities live in the description and targeting). Drop the strip if 5★ is not confirmed. **[CONFIRM]**
 
 **Meta fields:**
 - Primary text: "You work all week. Saturday shouldn't be scrubbing a tub. We deep clean the whole house, top to bottom. If we miss anything, we come back and redo it free. Tap below for your price."
-- Headline: "Miss a Spot? We Redo It Free." (29 chars, fits before the mobile cutoff)
+- Headline: "Your Full Home Deep Clean Price" (31 chars; the image carries the guarantee, so the headline names what tapping gets them)
 - Description: "Lawrence · Topeka · Johnson County · KCK"
 - CTA button: Get Quote
 
@@ -64,7 +64,8 @@ Full Home Transformation: a full deep clean of the whole house. Miss a spot and 
   3. Email
   4. ZIP code
   5. Bedrooms / bathrooms (multiple choice)
-  6. How often do you want help? (Every week / Every 2 weeks / Monthly / Just once). Route "Just once" answers separately; they don't fit the 3-visit gate.
+  6. When do you want your clean? (This week / Next 2 weeks / Just pricing). Call "This week" leads first.
+  7. Interested in regular cleanings? (Yes / Maybe / Just once). Keep "Maybe" in the pipeline. Do not list frequencies until the offered ones are confirmed. **[CONFIRM frequencies]**
 - **Thank-you screen:** "Got it. We'll text you in the next few minutes."
 - **Thank-you button:** "Call us now", dialing (785) 592-3337
 - **Lead routing:** form goes to GHL, which sends an automatic text within 60 seconds and assigns a human follow-up for the same day **[CONFIRM workflow is built]**
@@ -72,8 +73,8 @@ Full Home Transformation: a full deep clean of the whole house. Miss a spot and 
 ## Testing plan
 - **Days 1–7:** let all 3 run. Don't touch anything.
 - **Decision point:** after each ad has spent about $70–100, or on day 7.
-- **Early check (CPL):** any ad with no leads after $70 spent gets killed.
-- **Day 7 kill (booked):** judge on cost per **booked** clean, not cost per lead. Kill any ad whose cost per booked clean is 2x the best ad's, or that has leads but zero bookings.
+- **Day 7 check:** judge on cost per lead **plus** contact rate (did they answer the text or call). Kill any ad with no leads after $70 spent, or with cost per lead 2x the best ad's and a lower contact rate.
+- **Day 21 or 15+ total bookings (whichever comes first):** judge on cost per **booked** clean. At $30/day, booked-clean counts before this are too small to compare.
 - **Scale:** raise the budget on the winner by 20% every 3 days.
 - **Next test:** keep the winning photo and test 3 new headlines against it.
 
@@ -90,3 +91,5 @@ Full Home Transformation: a full deep clean of the whole house. Miss a spot and 
 4. Guarantee wording sign-off
 5. Daily budget
 6. GHL workflow built: 60-second auto-text plus same-day human follow-up
+7. A2P 10DLC registration done in GHL, and SMS consent wording added to the instant form
+8. Which recurring frequencies WSC actually offers
