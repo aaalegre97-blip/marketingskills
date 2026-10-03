@@ -30,6 +30,8 @@ Full Home Transformation: a full deep clean of the whole house. Miss a spot and 
   >
   > We deep clean the whole house, tub included. You check it when you get home.
   >
+  > "Have used another company before and not even close." (Google review)
+  >
   > Lawrence, KS. Tap below for your Full Home Deep Clean price.
 - Headline: "Get Your Full Home Deep Clean Price" (35 chars; the image carries the guarantee, so the headline names what tapping gets them). Follow-up scripts must use the same name: "Full Home Deep Clean".
 - Description: "Lawrence, KS"
@@ -46,6 +48,8 @@ Full Home Transformation: a full deep clean of the whole house. Miss a spot and 
   >
   > We deep clean the whole house so Saturday goes back to them. Then we keep it that way on a schedule. Miss a spot? We come back and redo it free.
   >
+  > "...giving me back a little time and energy." (Google review)
+  >
   > Lawrence, KS. Tap below for your Full Home Deep Clean price.
 - Headline, description and CTA: same as Ad 1
 
@@ -61,6 +65,11 @@ Primary text rule: open on the beat after the image hook (never repeat it), and 
 - Keep text at least 100px from the edges
 - Colors: WSC blue, green and light blue, sampled from the logo
 
+## Guarantee operations (internal, not on the ads)
+- Redos happen within **[X] hours** of the customer reporting a miss. **[CONFIRM hours]**
+- Keep move-out cleans out of these ads. Two 2023 reviews show redo-only failing when a landlord deadline can't wait.
+- Ask the 2 quoted reviewers for permission to use their words (one text each).
+
 ## Instant form
 - **Type:** Higher intent (adds a review screen, so leads are better quality)
 - **Intro headline:** "Get your deep clean price"
@@ -71,7 +80,7 @@ Primary text rule: open on the beat after the image hook (never repeat it), and 
   3. Email
   4. ZIP code
   5. Bedrooms / bathrooms (multiple choice)
-  6. When do you want your clean? (This week / Next 2 weeks / Just pricing). Call "This week" leads first.
+  6. When do you want your clean? (This week / Next 2 weeks / Just pricing). Call "This week" leads first. "Just pricing" leads: send the price for their home size (from a price sheet if one exists, otherwise a person quotes the same day), one follow-up after 48 hours, and any "no" or "STOP" ends all texts. A 1★ review already says WSC "will absolutely hound you" for a quote.
   7. Interested in regular cleanings? (Yes / Maybe / Just once). Keep "Maybe" in the pipeline. "Just once" leads go to a GHL text sequence that pitches the recurring plan (default until a one-time price is decided). Do not list frequencies until the offered ones are confirmed. **[CONFIRM frequencies + one-time price decision]**
 - **Thank-you screen:** "Got it. We'll text you in the next few minutes."
 - **Thank-you button:** "Call us now", dialing (785) 592-3337
@@ -85,6 +94,7 @@ Primary text rule: open on the beat after the image hook (never repeat it), and 
 - **Scale:** raise the budget on the winner by 20% every 3 days.
 - **Next test:** keep the winning photo and test 1 new headline. Run the challenger in its own ad set (same targeting) at a fixed $10/day for 7 days, then compare cost per lead with the winner. Don't add it to the winner's ad set; Meta would starve it.
 - **Round 2 headline challengers:** Ad 1 "Your in-laws land Friday. This is your tub." Ad 2 "You pay someone to do your taxes. Why are you scrubbing this?"
+- **Round 2 angles from reviews (see REVIEW-INSIGHTS.md):** no judgment ("nonjudgmental attitude"; never claim "we've seen worse"), never this clean ("I didn't know our house could be so clean"), pet owners ("fur babies"), guests coming ("family in town for Thanksgiving").
 - **Round 2 photo:** use a non-bathroom room (kitchen, stovetop, baseboards). Round 1 is two bathroom shots, so it tests hooks, not angles.
 
 ## Track weekly
@@ -98,7 +108,9 @@ Primary text rule: open on the beat after the image hook (never repeat it), and 
 2. Daily budget
 3. GHL workflow built: 60-second auto-text plus same-day human follow-up
 4. A2P 10DLC registration done in GHL, and SMS consent wording added to the instant form
-5. Which recurring frequencies WSC actually offers
+5. Recurring frequencies: monthly and bi-weekly confirmed by reviews; is weekly offered?
 6. One-time deep clean price: yes or no (until decided, "Just once" leads get the plan-pitch text sequence)
 7. Privacy policy URL live on wheatstatecleaning.com (Meta instant forms require it)
 8. Kansas-side ZIP list for targeting and the out-of-area auto-text
+9. Price sheet by home size, or manual same-day quotes?
+10. Redo window in hours (internal guarantee rule)
