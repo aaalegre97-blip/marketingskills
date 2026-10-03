@@ -6,7 +6,7 @@ Items marked **[CONFIRM]** need an answer before launch.
 - **Objective:** Leads
 - **Conversion location:** Instant form (prices stay off the ads)
 - **Structure:** 1 campaign, 2 ad sets at $15/day each (one ad per ad set, same targeting) so both ads get equal spend during the test. Merge the winner into one ad set after day 7–10. 2 ads (bathtub + toilet; one photo each, same offer, different hook). Fan ad dropped: weakest proof, and 2 ads gives each about $105/week instead of $70.
-- **Location:** Kansas side only. Lawrence and Topeka with a radius (no state line nearby). Lenexa, Olathe, Overland Park and Kansas City KS targeted by city or ZIP name, with **no radius around the KC metro** (a radius spills into KCMO, Independence and North Kansas City). **[CONFIRM ZIP list]**
+- **Location:** Lawrence, KS only, with a radius around the city (about 10 miles). **[CONFIRM radius]** Matches the ads, which only say "Lawrence, KS." Watch frequency: Lawrence is a small audience, so if frequency passes 2.5 in a week, refresh creative before raising budget.
 - **Audience:** broad / Advantage+, ages 28–60. No interest targeting; let the creative find the busy professionals.
 - **Placements:** Advantage+ (Feed, Stories, Reels). Upload per placement: 1080x1350 for Feed, 1080x1920 for Stories/Reels, 1080x1080 as fallback.
 - **Advantage+ creative enhancements: all OFF** (especially "expand image" and visual touch-ups). AI-generated fill around real before/after photos is a trust and policy risk.
@@ -66,7 +66,7 @@ Primary text rule: open on the beat after the image hook (never repeat it), and 
 - Colors: WSC blue, green and light blue, sampled from the logo
 
 ## Guarantee operations (internal, not on the ads)
-- Redos happen within **[X] hours** of the customer reporting a miss. **[CONFIRM hours]**
+- Redo window: no fixed window (Alan, 2026-10-03). Redos are scheduled case by case.
 - Keep move-out cleans out of these ads. Two 2023 reviews show redo-only failing when a landlord deadline can't wait.
 - Ask the 2 quoted reviewers for permission to use their words (one text each).
 
@@ -80,11 +80,11 @@ Primary text rule: open on the beat after the image hook (never repeat it), and 
   3. Email
   4. ZIP code
   5. Bedrooms / bathrooms (multiple choice)
-  6. When do you want your clean? (This week / Next 2 weeks / Just pricing). Call "This week" leads first. "Just pricing" leads: send the price for their home size (from a price sheet if one exists, otherwise a person quotes the same day), one follow-up after 48 hours, and any "no" or "STOP" ends all texts. A 1★ review already says WSC "will absolutely hound you" for a quote.
-  7. Interested in regular cleanings? (Yes / Maybe / Just once). Keep "Maybe" in the pipeline. "Just once" leads go to a GHL text sequence that pitches the recurring plan (default until a one-time price is decided). Do not list frequencies until the offered ones are confirmed. **[CONFIRM frequencies + one-time price decision]**
+  6. When do you want your clean? (This week / Next 2 weeks / Just pricing). Call "This week" leads first. "Just pricing" leads: a person quotes them the same day (no price sheet), one follow-up after 48 hours, and any "no" or "STOP" ends all texts. A 1★ review already says WSC "will absolutely hound you" for a quote.
+  7. Interested in regular cleanings? (Yes / Maybe / Just once). Keep "Maybe" in the pipeline. "Just once" leads go to a GHL text sequence that pitches the recurring plan (default until a one-time price is decided). Offered frequencies (confirmed): weekly, every 2 weeks, monthly. **[CONFIRM one-time price decision]**
 - **Thank-you screen:** "Got it. We'll text you in the next few minutes."
 - **Thank-you button:** "Call us now", dialing (785) 592-3337
-- **Lead routing:** form goes to GHL, which sends an automatic text within 60 seconds and assigns a human follow-up for the same day. If the ZIP is outside the service area, GHL auto-texts "Sorry, we're not in your area yet" and no follow-up task is created. **[CONFIRM workflow is built]**
+- **Lead routing:** form goes to GHL and into Alan's existing follow-up (already built; no new SMS sequences needed). Make sure it follows two rules: "Just pricing" leads get one follow-up after the quote, and any "no" or STOP ends all texts. Leads outside the Lawrence area get a polite "not in your area yet" reply.
 
 ## Testing plan
 - **Days 1–7:** let both run. Don't touch anything.
@@ -106,11 +106,8 @@ Primary text rule: open on the beat after the image hook (never repeat it), and 
 ## Open items before launch
 1. Guarantee wording sign-off
 2. Daily budget
-3. GHL workflow built: 60-second auto-text plus same-day human follow-up
-4. A2P 10DLC registration done in GHL, and SMS consent wording added to the instant form
-5. Recurring frequencies: monthly and bi-weekly confirmed by reviews; is weekly offered?
-6. One-time deep clean price: yes or no (until decided, "Just once" leads get the plan-pitch text sequence)
-7. Privacy policy URL live on wheatstatecleaning.com (Meta instant forms require it)
-8. Kansas-side ZIP list for targeting and the out-of-area auto-text
-9. Price sheet by home size, or manual same-day quotes?
-10. Redo window in hours (internal guarantee rule)
+3. A2P 10DLC registration done in GHL, and SMS consent wording added to the instant form
+4. One-time deep clean price: yes or no (until decided, "Just once" leads get the plan-pitch text sequence)
+5. Privacy policy URL live on wheatstatecleaning.com (Meta instant forms require it)
+6. Lawrence radius in miles (about 10 suggested)
+7. Toilet "after" photo: ask the cleaner who did that job whether the orange line under the rim is a permanent stain
