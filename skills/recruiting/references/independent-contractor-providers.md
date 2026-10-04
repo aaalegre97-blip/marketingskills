@@ -104,7 +104,7 @@ Post one job per distinct metro rather than widening the radius. Indeed treats s
 
 ## Phone screen for providers
 
-Five questions, ten minutes. The goal is to confirm they can operate, not to interview for a job.
+Seven questions, ten minutes. The goal is to confirm they can operate, not to interview for a job. Question 1 screens out non-professionals before anything else; log the applicant's source (referral, phone-in, Indeed, Facebook, other) so removals can be tracked by source later.
 
 1. "Tell me about the cleaning you're doing now. Solo, team, how many homes a week?"
 2. "Walk me through how you clean a bathroom." (Experience check. Listen for order, products, and the details: under the rim, the base of the toilet, shower track.)

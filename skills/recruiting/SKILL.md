@@ -2,7 +2,7 @@
 name: recruiting
 description: "When the user wants to audit, build, or fix a recruiting funnel for a service business — hiring cleaners, technicians, installers, crews, or office staff — including the job offer, job post, Indeed and Facebook job ads, applicant follow-up, interview show rate, and first-30-day retention. Covers both W-2 employees and 1099 independent contractor providers for referral platforms and marketplaces. Also use when the user mentions 'hiring,' '1099,' 'independent contractors,' 'providers,' 'subcontractors,' 'recruiting,' 'can't find workers,' 'nobody applies,' 'applicants ghost us,' 'no-shows,' 'job post,' 'job ad,' 'Indeed,' 'hiring funnel,' 'recruiting funnel,' 'turnover,' or 'they quit after a week.' Built for cleaning, HVAC, roofing, plumbing, landscaping, painting, and other home-service businesses; the same funnel applies to any hourly or field role. For the job offer's economics, see offers. For the ad campaigns themselves, see ads. For applicant text follow-up, see sms. For the hiring page, see cro."
 metadata:
-  version: 1.0.0
+  version: 1.0.1
 ---
 
 # Recruiting Funnel

@@ -44,7 +44,7 @@ Current versions of all skills. Agents can compare against local versions to che
 | programmatic-seo | 2.0.0 | 2026-05-05 |
 | prospecting | 1.1.2 | 2026-10-02 |
 | public-relations | 1.2.0 | 2026-10-02 |
-| recruiting | 1.0.0 | 2026-10-04 |
+| recruiting | 1.0.1 | 2026-10-04 |
 | referrals | 2.0.2 | 2026-10-02 |
 | revops | 2.0.1 | 2026-10-02 |
 | sales-enablement | 2.3.2 | 2026-10-02 |
@@ -57,6 +57,10 @@ Current versions of all skills. Agents can compare against local versions to che
 | video | 2.2.1 | 2026-10-02 |
 
 ## Recent Changes
+
+### 2.12.1 (2026-10-04)
+
+- **recruiting** (1.0.0 → 1.0.1): the provider phone screen now says seven questions (it listed seven under a "five" heading) and asks the screener to log the applicant's source so quality removals can be tracked by channel. Interview reminder timing in `follow-up-sequences.md` now reads "24 hours before" to match the other files.
 
 ### 2.12.0 (2026-10-04)
 

@@ -87,7 +87,7 @@ Book it. Confirm by text within a minute of hanging up.
 Three texts, all with the address and a map pin. Reminders at 24 hours and 1 hour before cut no-shows from roughly 20% to under 12%:
 
 - **On booking:** "You're set for [Wed 10am] at [address]. Ask for [name]. Wear [closed-toe shoes / work clothes]. It's paid, 2 hours. [map pin]"
-- **Evening before:** "See you tomorrow at [10am], [address]. Reply if anything changed."
+- **24 hours before:** "See you tomorrow at [10am], [address]. Reply if anything changed."
 - **1 hour before:** "Heading in? [Name] is expecting you at [10am]. [map pin]"
 
 If they do not show, one text: "Missed you today. Want to rebook? Reply with a day that works." Then back to the monthly list.
