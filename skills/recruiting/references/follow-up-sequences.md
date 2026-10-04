@@ -22,7 +22,7 @@ Trigger: new application on Indeed (email parse), Facebook lead form, careers-pa
 > Hi [First name], this is [Your name] at [Company]. Got your application for the [House Cleaner] job, thanks. Quick one: can you work Mon–Fri days starting [next week]? Reply YES and I'll call you for 10 minutes, or grab a time here: [booking link]. Reply STOP to opt out.
 
 Two variants to test:
-- Lead with the pay: "It's $[700–850]/week, Mon–Fri, paid every Friday. Still interested?"
+- Lead with the pay: "It's $[650–790]/week guaranteed, Mon–Fri, paid every Friday. Still interested?"
 - Lead with start timing: "We can start you [Monday]. Does that work?"
 
 Rules:

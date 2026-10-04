@@ -111,7 +111,7 @@ Apply with a short note on why you want this and your phone number. Phone screen
 
 Shorter. One image of a real team member. Leads objective with an Instant Form: name, phone, and two or three knockout questions ("Can you work Mon–Fri days?", "When can you start?"). Employment ads fall under Meta's special ad category, so target a radius and let the ad copy do the screening.
 
-> **Hiring house cleaners in [City].** $[700–850]/week, Mon–Fri, no weekends, paid every Friday. Paid training, supplies provided. Start this week. Tap to apply, takes 30 seconds. We'll text you within 15 minutes.
+> **Hiring house cleaners in [City].** $[650–790]/week guaranteed, Mon–Fri, no weekends, paid every Friday. Paid training, supplies provided. Start this week. Tap to apply, takes 30 seconds. We'll text you within 15 minutes.
 
 > **[Company] needs an HVAC tech.** $[1,200–1,800]/week, company van, no on-call. Start within 7 days. Tap to apply.
 

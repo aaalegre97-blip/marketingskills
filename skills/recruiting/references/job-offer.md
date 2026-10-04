@@ -50,7 +50,7 @@ Whatever the structure, the post states one weekly number range. Applicants conv
 
 Formula: pay as weekly range + guaranteed hours + the one lever + start timing.
 
-- "$700–$850/week. 32 hours guaranteed. Paid weekly. Start this week."
+- "$650–$790/week guaranteed, 36 hours. Paid weekly. Start this week."
 - "$22–$28/hr, 40 hours. Company van and gas. No on-call."
 - "$18/hr, Mon–Fri, done by 4. Paid training from day one."
 

@@ -53,7 +53,7 @@ Figures are from published reports and vendor data as of 2026. Vendor data (Work
 | Cost of each no-show | About $500 in recruiter and manager time | CloudApper |
 | Group interviews for cleaners | Recommended by ZenMaid: no-shows cost a slot, not a morning; pay and schedule covered once | ZenMaid Magazine |
 
-**What this changes in practice:** book interviews 24 to 72 hours out, not same-day and not next week. Three text reminders. Automate the booking. A show rate of 80%+ is realistic with reminders; 60–75% is what you get without them.
+**What this changes in practice:** book interviews 24 to 72 hours out, not same-day and not next week. Three text reminders. Automate the booking. A show rate of 80%+ is realistic with reminders; without them expect 75–80% in general hiring and 50–70% in high-volume hourly hiring.
 
 ## Working interviews and pay law
 
