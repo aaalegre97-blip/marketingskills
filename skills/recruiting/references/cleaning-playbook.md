@@ -52,11 +52,11 @@ Run the post in English and Spanish where the labor market calls for it. Keep th
 
 ## Traffic
 
-Cost per applicant for cleaners is typically $10–40. If you are above that, the post is the problem, not the market.
+Cost per applicant for cleaners is typically $5–25 (rule of thumb). If you are well above that, the post is the problem, not the market.
 
 Sources in order of retained-hire quality:
-1. **Referrals from current cleaners.** $[100–300] bonus, half at day 30 and half at day 90. Announce it monthly, not once.
-2. **Indeed sponsored**, reposted every 2–3 weeks.
+1. **Referrals from current cleaners.** $[100–300] bonus, half within two weeks of the hire's start and half at day 90. Announce it monthly, not once.
+2. **Indeed sponsored**, one active post per metro, edited when the offer changes.
 3. **Facebook/Instagram job ads** with a lead form, targeted by zip code, photo of a real cleaner.
 4. **Local Facebook groups**, church and community boards, ESL program boards.
 5. **Craigslist** in markets where it still works.
@@ -93,7 +93,7 @@ Run the check the day of the offer. Where the law allows, start paid training wh
 - **Day 0 text:** time, address or shop, trainer's name, what to wear, lunch, first check date.
 - **Day 1–3:** paired with a named trainer with a checklist. Not "whoever's available." Plan on 7–10 days of structured training total.
 - **Day 3 text from the manager:** "How's it going? Anything confusing?"
-- **Day 5:** 10-minute chat. Confirm first-check math. Ask what would make them stay.
+- **Day 7:** 10-minute chat. Confirm first-check math. Ask what would make them stay.
 - **Week 2:** first solo house or first house as a team member. Quality check the same day.
 - **Day 30:** milestone. A number (bonus or raise step) stated in the offer, paid on time.
 
@@ -112,7 +112,7 @@ Track retention by trainer. One bad trainer can produce most of a company's turn
 
 | Metric | Target |
 |--------|--------|
-| Applicants contacted within 15 min | 90%+ |
+| Applicants contacted (median) | Under 15 minutes; 90%+ within 2 hours |
 | Phone screen → working interview booked | 50%+ |
 | Working interview show rate | 80%+ with reminders |
 | Working interview → offer | 50%+ |

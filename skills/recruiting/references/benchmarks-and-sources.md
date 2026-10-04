@@ -2,7 +2,7 @@
 
 The numbers behind the funnel benchmarks, with where they come from. Use this when an owner asks "says who?" or when a client's market differs from the default and you need to know which figures are firm and which are rules of thumb.
 
-Figures are from published reports and vendor data as of 2026. Vendor data (Workstream, Fountain, Talview, GoHire) is directional: it comes from their customers and favors their product. Cross-industry reports (CareerPlug, Appcast, Shift Project) are firmer. Local pay data always beats any of this; check Indeed's salary tool and three competitor posts per market.
+Figures are from published reports and vendor data as of 2026. Vendor data (Workstream, Fountain, Talview, GoHire, Pin, CloudApper) is directional: it comes from their customers and favors their product. Rows marked "rule of thumb" are operator conventions this skill uses, not measured benchmarks. Cross-industry reports (CareerPlug, Appcast, Shift Project) are firmer. Local pay data always beats any of this; check Indeed's salary tool and three competitor posts per market.
 
 ## Top of funnel
 
@@ -16,8 +16,9 @@ Figures are from published reports and vendor data as of 2026. Vendor data (Work
 | Jobs with pay, schedule, and benefits listed | 50% more apply starts | Indeed employer resources |
 | Application under 5 minutes vs 15+ minutes | 12.5% completion vs 3.6% | Pin application-length study, 2026 |
 | Candidates who start but never finish an application | 92% (over half cite length or complexity) | SHRM, citing Appcast |
-| Mobile application drop-off, frontline roles | Up to 98.5% on long forms | CloudApper, citing frontline hiring data |
-| Indeed cost per application | $15–50 typical; $5–8 for entry-level service roles; $25/day minimum per sponsored post since July 2025 | Pin, Hiretruffle, PerfectlyHired pricing guides 2026 |
+| Indeed cost per application | $15–50 typical; $5–8 for entry-level service roles; $25/day minimum per sponsored post reported from July 2025 (check current Indeed pricing) | Pin, Hiretruffle, PerfectlyHired pricing guides 2026 |
+| Cost per applicant, all sources | $5–25 cleaner, $30–120 skilled trade | Rule of thumb |
+| Pay at or above the local 60th percentile | Stage-1 "healthy" line | Rule of thumb |
 | Indeed sponsored vs free | Sponsored jobs 3.5x more likely to result in a hire; free listings lose visibility as new posts arrive | Indeed employer resources |
 | Reposting on Indeed | Duplicate or frequently reposted jobs rank lower; Indeed says to update the single active post, not create a new one | Indeed job posting rules and policies |
 
@@ -42,8 +43,9 @@ Figures are from published reports and vendor data as of 2026. Vendor data (Work
 
 | Metric | Figure | Source |
 |--------|--------|--------|
-| Interview no-show, industry average | 30–50%; hourly phone screens up to 38%; seasonal peaks far higher | CloudApper, Workstream, Workwolf |
+| Interview no-show without reminders | 18–25% in general hiring (Talview baseline); 30–50% in high-volume hourly hiring, hourly phone screens up to 38%, seasonal peaks far higher | Talview; CloudApper, Workstream, Workwolf |
 | No-show with 24-hour and 1-hour reminders | Drops from 18–25% to 8–12% | Talview |
+| Phone screen → interview booked 50%+, interview → offer 50%+ | Cleaning-playbook weekly targets | Rule of thumb |
 | Interviews booked within 24 hours | 71–72% show rate (too fast to plan around) | Talview |
 | Interviews booked 24–72 hours out | 90–92% show rate | Talview |
 | Candidates who quit because scheduling took too long | 42%; 55% give up if no interview within a week | The Interview Guys, Pin |
@@ -74,6 +76,8 @@ Figures are from published reports and vendor data as of 2026. Vendor data (Work
 | When new hires decide | 29% know in the first week, 70% within the first month | Enboarder |
 | Top reasons for leaving in 90 days | Job not as described (30%), no connection to the team (20%), poor onboarding (17%); for frontline: pay or hours differ from what was promised, no visible path, manager absent in the first days | Enboarder, Fountain, 5Starr |
 | Structured onboarding | 69% more likely to stay three years; up to 82% better retention | Enboarder, Devlin Peck roundups citing SHRM and Glassdoor |
+| 75% retained at day 30, 60% at day 90 (cleaning) | Stage-7 "healthy" line | Rule of thumb, set below the 43%-in-90-days frontline figure |
+| Cost per retained hire under one week of that worker's billed revenue | Cleaning-playbook target | Rule of thumb |
 
 **What this changes in practice:** the day-before text, a named trainer, and a day-3 and day-7 check-in are the cheapest retention program that exists. The first-paycheck walkthrough targets the single most-cited reason frontline hires quit.
 

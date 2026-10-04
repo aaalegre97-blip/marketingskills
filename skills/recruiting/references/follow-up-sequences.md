@@ -2,7 +2,7 @@
 
 Speed-to-contact is the stage most funnels lose. Applicants apply to several jobs in one sitting and go with whoever reaches them first. Build the first touch as automation and the next three as a standard.
 
-For SMS compliance, deliverability, and tooling, see `sms`. Applicants who submit a phone number on a job application have requested contact about that application; keep the messages about the application and stop when they ask.
+For SMS compliance, deliverability, and tooling, see `sms`. Treat applicant texts as informational, keep them about the application, register the sending number under A2P 10DLC, include opt-out language on the first automated text and on any re-engagement text, honor STOP immediately, and keep the monthly list to people who replied at least once.
 
 ## The 4-touch standard
 
@@ -19,7 +19,7 @@ All from one local number, signed with a real first name.
 
 Trigger: new application on Indeed (email parse), Facebook lead form, careers-page form, or any source feeding the CRM.
 
-> Hi [First name], this is [Your name] at [Company]. Got your application for the [House Cleaner] job, thanks. Quick one: can you work Mon–Fri days starting [next week]? Reply YES and I'll call you for 10 minutes, or grab a time here: [booking link]
+> Hi [First name], this is [Your name] at [Company]. Got your application for the [House Cleaner] job, thanks. Quick one: can you work Mon–Fri days starting [next week]? Reply YES and I'll call you for 10 minutes, or grab a time here: [booking link]. Reply STOP to opt out.
 
 Two variants to test:
 - Lead with the pay: "It's $[700–850]/week, Mon–Fri, paid every Friday. Still interested?"
@@ -50,11 +50,21 @@ Then text immediately:
 
 Then tag them "not now" and add to a monthly re-engagement list.
 
+## Provider variant (1099 contractors)
+
+The employee texts above promise hours and a schedule, which a contractor post must not. For referral platforms and marketplaces, swap the first two touches:
+
+**Touch 1:** "Hi [First name], [Your name] with [Company]. Thanks for applying to clean with us. Jobs are paid per job, shown before you accept, paid every Friday. Still cleaning professionally? Reply YES and I'll call you for 10 minutes, or grab a time: [booking link]. Reply STOP to opt out."
+
+**Touch 2:** "[First name], [Your name] again. We bring the clients and collect payment; you pick the jobs you want. Want the details? Reply YES or call [number]."
+
+The call script, reminders, and onboarding texts are in `independent-contractor-providers.md`.
+
 ## Monthly re-engagement
 
 Once a month to everyone tagged "not now" in the last 6 months:
 
-> Hi [First name], [Your name] at [Company]. We're hiring [cleaners] again, $[X]/week, start [date]. Still looking? Reply YES.
+> Hi [First name], [Your name] at [Company]. We're hiring [cleaners] again, $[X]/week, start [date]. Still looking? Reply YES. Reply STOP to opt out.
 
 This list becomes the cheapest hiring source in the business within a quarter.
 
@@ -78,7 +88,7 @@ Three texts, all with the address and a map pin. Reminders at 24 hours and 1 hou
 
 - **On booking:** "You're set for [Wed 10am] at [address]. Ask for [name]. Wear [closed-toe shoes / work clothes]. It's paid, 2 hours. [map pin]"
 - **Evening before:** "See you tomorrow at [10am], [address]. Reply if anything changed."
-- **2 hours before:** "Heading in? [Name] is expecting you at [10am]. [map pin]"
+- **1 hour before:** "Heading in? [Name] is expecting you at [10am]. [map pin]"
 
 If they do not show, one text: "Missed you today. Want to rebook? Reply with a day that works." Then back to the monthly list.
 

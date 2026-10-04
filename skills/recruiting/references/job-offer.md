@@ -2,7 +2,7 @@
 
 The job is the offer. Applicants compare it against every other post they saw that night, the job they have now, and not working. Most service businesses lose at this stage before anyone reads the post.
 
-Use `offers` for the general framework (value, certainty, speed, convenience). This file applies it to hourly and field hiring.
+Use `offers` for the general framework (the value equation: dream outcome and likelihood up, time and effort down; it is written for products and services, not hiring). This file translates it to hourly and field hiring.
 
 ## What field workers actually weigh
 
@@ -61,7 +61,7 @@ That line is the first thing in the post, the first text to applicants, and the 
 Applicants fear wasting their time: an unpaid working interview, a job that is not what was described, or a two-week process that goes nowhere.
 
 - "Paid working interview. Two hours, paid at full rate, no obligation either way."
-- "If the job isn't what we described in your first week, we'll pay you for the week and help you find something else."
+- "If the job isn't what we described, walk at the end of week one with a $[100] bonus on top of your pay, no questions."
 - "You'll hear from us within 15 minutes of applying, 7 days a week."
 
 Pick one. Put it in the post.

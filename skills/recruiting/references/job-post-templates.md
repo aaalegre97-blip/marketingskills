@@ -4,24 +4,27 @@ A job post is a landing page. Headline, offer, proof, call to action. These temp
 
 ## Rules that apply to every post
 
-- **Title = search term.** Use what applicants type, not your internal title. Check Indeed autocomplete.
-- **Lines one and two carry the offer.** Weekly pay range, guaranteed hours, start timing. Search results show only the first two lines. Indeed's data: posts with pay listed get up to 2.5x the applications.
+- **Title = the bare search term.** Use what applicants type, not your internal title, and nothing else: no pay, perks, schedule, or location in the title. Indeed's posting standards disallow them there, and they are not what people search. Check Indeed autocomplete.
+- **Lines one and two carry the offer.** Weekly pay range, guaranteed hours, start timing. Search results show only the first two lines. Indeed's data: posts with pay listed get up to 2.5x the applications. In Colorado, California, Washington, New York, Illinois, and a growing list of states, a pay range in the post is required by law, so treat it as mandatory everywhere.
 - **Benefits before requirements.** Four to six "what you get" bullets, then two to four "what we need" bullets.
 - **Cut requirements that are preferences.** If you train for it, do not require it.
 - **One-tap apply.** Name and phone. Screen on the phone. Applications under 5 minutes complete at about 12%; over 15 minutes, under 4%.
 - **Say what happens next.** "Text within 15 minutes" sets the expectation and makes your fast follow-up feel like proof.
+- **The weekly number must be the guaranteed number, or say which is which.** A headline of $700 over a guarantee that pays $580 is the pay surprise that ends week one.
 - **Write at a 6th-grade level.** Short sentences. No "candidate," "role," "position," or "we are seeking."
 - **No "family owned," "growing company," "competitive pay," or "fast-paced environment."**
 
 ## Template 1: Residential cleaner
 
-**Title:** House Cleaner – $[700–850]/week, Mon–Fri, Paid Weekly
+**Title:** House Cleaner
 
-[Company] is hiring [2] house cleaners in [City/area]. Start this week.
+$[650–790]/week guaranteed, Mon–Fri, paid every Friday. Start this week.
+
+[Company] is adding [2] house cleaners in [City/area].
 
 **What you get**
-- $[18–22]/hour. Most cleaners here make $[700–850] a week.
-- [32] hours guaranteed, every week. Mon–Fri, [8am–4pm]. No nights, no weekends.
+- $[18–22]/hour with [36] hours guaranteed every week: $[650–790] before tips. Most cleaners here clear $[700–850] with tips.
+- Mon–Fri, [8am–4pm]. No nights, no weekends.
 - Paid every Friday. Paid training from your first hour.
 - Supplies, uniform, and [gas reimbursement / company car between jobs] provided.
 - Raise to $[X]/hour at 90 days. Lead cleaner path at $[Y]/hour.
@@ -37,9 +40,11 @@ Apply with your name and phone. You'll get a text from [First name] within 15 mi
 
 ## Template 2: HVAC / plumbing / electrical technician
 
-**Title:** [HVAC Service Technician] – $[1,200–1,800]/week, Company Van, No On-Call
+**Title:** [HVAC Service Technician]
 
-[Company] needs [1] experienced [HVAC service tech] in [City]. Start within 7 days.
+$[1,200–1,800]/week, 40 hours, take-home van, no on-call. Start within 7 days.
+
+[Company] needs [1] experienced [HVAC service tech] in [City].
 
 **What you get**
 - $[28–38]/hour based on experience, plus [spiffs / performance bonus] paid weekly. Techs here average $[1,200–1,800]/week.
@@ -59,9 +64,11 @@ Apply with your name and phone. [First name] texts you within 15 minutes. One ph
 
 ## Template 3: Crew member / installer / laborer (roofing, landscaping, painting, concrete)
 
-**Title:** [Roofing Crew Member] – $[800–1,100]/week, Start [Monday], Paid Weekly
+**Title:** [Roofing Crew Member]
 
-[Company] is adding [3] crew members in [City] for the [spring/season]. Start [date].
+$[800–1,100]/week, paid weekly, start [Monday]. Ride from the shop every morning.
+
+[Company] is adding [3] crew members in [City] for the [spring/season].
 
 **What you get**
 - $[20–26]/hour. [40–50] hours a week during the season, overtime paid.
@@ -80,7 +87,9 @@ Apply with name and phone. Text within 15 minutes. Short phone call, then a paid
 
 ## Template 4: Office / dispatch / customer service
 
-**Title:** [Customer Service Rep / Dispatcher] – $[40–48]K, Mon–Fri, [City] Office
+**Title:** [Customer Service Representative]
+
+$[40–48]K, Mon–Fri [8–5], [City] office, paid weekly.
 
 [Company] is hiring [1] person to answer calls, book jobs, and keep our techs' days on track.
 
@@ -117,6 +126,6 @@ Same post, plus:
 ## Post hygiene
 
 - Keep one active Indeed post per role and edit it when the offer changes. Indeed ranks duplicate and frequently reposted jobs lower, and free posts lose visibility as new jobs arrive, so sponsor the one post instead of reposting it.
-- Run two titles for the same role and keep the one with the higher click-to-apply.
+- Test a second title by editing the one active post, two weeks each, and keep the one with the higher click-to-apply. Never run two posts for the same role in the same metro.
 - Change the pay number only if the offer actually changed; do not inflate the range.
 - Reply to every applicant, including the ones you pass on. Indeed scores responsiveness.

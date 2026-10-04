@@ -24,7 +24,17 @@ Last 30 days, per source if possible:
 
 Derived: cost per applicant, cost per hire, cost per retained hire (spend ÷ still employed at day 30).
 
-If the owner cannot fill this in, the first fix is a tracking sheet. Do not skip to tactics.
+If the owner cannot fill this in, reconstruct the last 90 days from what already exists: the Indeed employer dashboard (views and applies), payroll or payout records (active workers, jobs per worker, first-job date), phone and text logs (speed-to-contact), and the removal list. Build the tracking sheet as the first deliverable, then run the audit on what you reconstructed. Any stage with fewer than about 20 events is a qualitative finding, not a benchmark gap.
+
+## Stage 0: Is supply the constraint?
+
+**Measure:** jobs per week, jobs per active worker per week, jobs unfilled or declined for lack of coverage in the last 30 days, and month-over-month growth.
+
+**Healthy:** workers are near capacity (4–6 jobs a week part-time, 8–10 full-time for cleaners) and some jobs go unfilled. That is a supply problem and the rest of this audit applies.
+
+**Leak signs:** workers averaging one or two jobs a week, nothing unfilled, new hires asking when work starts. That is a demand problem. More recruiting adds idle workers and drains the fill rate of the good ones.
+
+**Fix:** recruit only to replace removals and to build a bench sized to growth (forecast jobs per week 60–90 days out ÷ target jobs per worker per week, minus the current roster). Set a trigger for paid recruiting (jobs per week, or declined-for-coverage count) and put the budget into demand or recurring conversion until it fires.
 
 ## Stage 1: The offer
 
@@ -101,7 +111,7 @@ This is usually the biggest leak and the cheapest fix. A funnel going from 30% c
 
 **Measure:** interviews booked → attended.
 
-**Healthy:** 80% or better with text reminders. Industry no-show averages run 30–50%, and multi-touch text reminders bring no-shows down to 8–12%. Below 50% is a scheduling and reminder problem, not an applicant quality problem.
+**Healthy:** 80% or better with text reminders. Without them, no-shows run 18–25% in general hiring and 30–50% in high-volume hourly hiring; reminders at 24 hours and 1 hour before bring them to 8–12%. Below 50% is a scheduling and reminder problem, not an applicant quality problem.
 
 **Leak signs:**
 - Interviews booked same-day (about 70% show) or more than 72 hours out; the 24–72 hour window shows at about 90%
@@ -112,7 +122,7 @@ This is usually the biggest leak and the cheapest fix. A funnel going from 30% c
 **Fixes in order:**
 1. Insert a 10-minute phone screen before any in-person interview. Book it on the first text. Five questions, then book the interview on that call.
 2. Book interviews 24 to 72 hours out. Offer two slots, not "when are you free." 42% of candidates drop out when scheduling drags; 55% give up if there is no interview within a week.
-3. Send three reminders: on booking, the evening before, and 2 hours before. Text, not email. Include the address and a photo of the building or a map pin.
+3. Send three reminders: on booking, 24 hours before, and 1 hour before. Text, not email. Include the address and a photo of the building or a map pin.
 4. Offer a video option for the first interview for roles where it makes sense.
 5. Make the interview itself worth showing up to: a paid working interview or trial shift for cleaners and installers converts better than a sit-down. Pay it at the full rate; federal law requires at least minimum wage whenever an applicant does real work.
 6. For high-volume cleaner hiring, a group interview session (6–10 applicants, pay and schedule covered once, short individual chats after) turns no-shows into an empty chair instead of an empty morning.
@@ -139,7 +149,7 @@ This is usually the biggest leak and the cheapest fix. A funnel going from 30% c
 
 **Measure:** started → still employed at day 30. Also ask every departing person why, and log it.
 
-**Healthy:** 75% or better at day 30, 60% at day 90 for cleaning; higher for trades. Across frontline roles, 43% of new hires leave within 90 days, and 29% decide in the first week.
+**Healthy:** 75% or better at day 30 and 60% at day 90 for cleaning are rules of thumb; higher for trades. The measured context: across frontline roles, 43% of new hires leave within 90 days, and 29% decide in the first week. Count only people who left on their own; workers the business removed belong to stage 5.
 
 **Leak signs:**
 - "They just stopped showing up" with no exit reason logged

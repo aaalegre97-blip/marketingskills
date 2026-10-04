@@ -29,6 +29,8 @@ A referral platform solves all four. That is the offer. "We bring the clients, b
 
 Never promise guaranteed hours or guaranteed bookings in a contractor post unless the agreement actually guarantees them. State honestly that bookings depend on demand and availability.
 
+**Stage-1 benchmark for providers.** Compare the per-job payout against what the same cleaner nets going direct, and against the local W-2 wage plus roughly 30–50% for self-employment tax, supplies, insurance, and unpaid drive time. If the honest weekly number for an active provider would embarrass you in the post, the business has a demand problem, not a copy problem; fix fill rate before recruiting.
+
 ## Requirements that fit the model
 
 Contractor requirements are about readiness to operate, not trainability:
@@ -60,7 +62,7 @@ Say "This is 1099 independent contractor work" plainly, once, near the end.
 ## Job post template: independent cleaner
 
 ```
-Title: Residential House Cleaner (Part-Time or Full-Time, 1099)
+Title: Residential House Cleaner
 Pay field: $[25]–$[35] per hour (Indeed has no per-job option; use the realistic equivalent)
 Job type: Contract, Part-time, Full-time
 Apply: one-tap, name and phone
@@ -70,6 +72,7 @@ Paid per job, $[25–35]/hr equivalent, paid every Friday. You see the pay befor
 We bring the clients, book the jobs, and collect the payment. You clean. No marketing, no chasing invoices, no no-pay customers.
 
 How it works
+- Active providers currently average [N] jobs and about $[X]/week; most start with [1–2] jobs in the first week.
 - You set the days and hours you're open. We send you jobs that fit. You accept the ones you want.
 - Pay is shown up front on every job. No cap. Faster, better cleaners earn more.
 - Paid weekly by direct deposit.
@@ -97,7 +100,7 @@ This is 1099 independent contractor work.
 [Phone] · [Website]
 ```
 
-Post one job per city rather than widening the radius. Indeed treats separate locations as separate posts; the same post duplicated in one location ranks lower.
+Post one job per distinct metro rather than widening the radius. Indeed treats separate metros as separate posts; the same post duplicated across suburbs of one metro, or twice in one location, ranks lower.
 
 ## Phone screen for providers
 
@@ -108,6 +111,7 @@ Five questions, ten minutes. The goal is to confirm they can operate, not to int
 3. "What days and hours are you open for jobs, and how far will you drive?"
 4. "Do you have liability insurance now? If not, are you good getting it this week? It runs about $[X] a month."
 5. "The pay is per job, shown before you accept, $[range]/hr equivalent, paid Fridays. Does that work for you?"
+6. "How are you getting to jobs, and what do you do when a job runs long or a client cancels on you the morning of?" (Reliability. Listen for a plan, not an excuse.)
 
 Then book onboarding within 24 to 72 hours and confirm by text.
 
@@ -126,7 +130,9 @@ Three or more misses ends the call. This costs nothing and filters before the ex
 
 ### The first job is a paid, scored gate
 
-Make the first booking a real, paid job that the office scores against the post-clean checklist (photos, walkthrough, client feedback). Tell the provider it is scored. No second job until it passes. A known standard improves behavior; a secret test only catches failures after the client has already seen them. Pair the first job with a top-earning provider where the model allows it.
+Make the first booking a real, paid job that the office scores against the post-clean checklist (photos, walkthrough, client feedback) and on arrival time and communication. Tell the provider it is scored. No second job until it passes.
+
+Scoring, checklists, and routing rules are control factors in a classification analysis. Frame them as the client's outcome standard rather than instructions on method, and have counsel review them alongside the agreement. A known standard improves behavior; a secret test only catches failures after the client has already seen them. Pair the first job with a top-earning provider where the model allows it.
 
 Say it in the post: "Your first job is a paid, scored test clean. Most experienced cleaners pass. If you don't, we'll tell you why." Weak applicants self-select out.
 
@@ -154,6 +160,8 @@ Track time from screen to first completed job. That number is your onboarding le
 | Attended → docs complete | Days to complete | Which document stalls most (usually insurance) |
 | Docs complete → first job | Days to first job | Demand or routing, not the provider |
 | First job → 10 jobs | % reaching 10 | Pay disputes, scope surprises, fill rate |
+| Jobs offered → accepted | % by city and lead time | Coverage gaps versus thin demand |
+| Accepted → completed on time, no late cancel | % | Reliability; route by it |
 | Active at 90 days | % | Fill rate and payment reliability |
 | Removed for quality, by source | % of onboarded | Which channel sends cleaners who pass; fund that one |
 
@@ -170,6 +178,22 @@ Providers leave platforms for the same four reasons they joined: clients, pay, e
 - **Fewer, better clients.** Recurring clients on consistent routes. Providers stay for clients they like.
 - **Tips passed through in full** and visible on the statement.
 - **A 10-job and 50-job milestone.** A bonus or a priority-routing status, stated at onboarding.
+
+## Where providers come from
+
+Experienced independent cleaners are already working and mostly not on job boards. In order of retained-provider quality:
+
+1. Referrals from your top earners, asked by name, with the bonus paid after a set number of completed jobs
+2. Local cleaner and side-hustle Facebook groups, Nextdoor, and community boards
+3. Other marketplaces where they already list (Thumbtack, Care.com, Taskrabbit-style apps), reached with a direct message about fill rate and payment
+4. Supply stores and janitorial distributors
+5. Indeed, job type "Contract," one active post per metro
+
+A Meta ad recruiting contractors is still an employment ad under the special ad category: no age, gender, or narrow-zip targeting, a wide radius, and the creative does the screening.
+
+## While you are removing people
+
+Removing providers for quality is sometimes necessary and always visible to the rest of the roster. Protect the people who stay: rank job routing by proven quality so top earners keep their fill rate, announce the standard once to everyone rather than letting rumors do it, cap onboarding to what demand supports (state the jobs-per-provider-per-week threshold), and report fill rate to each provider weekly. Adding providers into fixed demand drops the top earners' fill rate, and they are the ones who can leave fastest.
 
 ## Where the W-2 playbook does not apply
 
