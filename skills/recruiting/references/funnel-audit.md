@@ -46,7 +46,7 @@ If the owner cannot fill this in, the first fix is a tracking sheet. Do not skip
 
 **Measure:** click-to-apply rate on Indeed (visible in the employer dashboard), or applications per 100 views on Facebook.
 
-**Healthy:** 8–15% on Indeed. Below 5% means the post itself is losing people.
+**Healthy:** 6% is the small-business median (CareerPlug 2025, Appcast 2025). 10% or better means the post is doing real work. Below 4% means the post itself is losing people.
 
 **Leak signs:**
 - Title is a company term, not a search term
@@ -56,7 +56,7 @@ If the owner cannot fill this in, the first fix is a tracking sheet. Do not skip
 
 **Fixes in order:**
 1. Change the title to what people search. Test with Indeed's search autocomplete.
-2. Move pay and hours to line one and two.
+2. Move pay and hours to line one and two. Indeed reports up to 2.5x more applications when pay is listed, and 50% more apply starts when pay, schedule, and benefits all appear.
 3. Switch to one-tap apply (name and phone only).
 4. Rewrite using the templates in `job-post-templates.md`.
 
@@ -64,24 +64,24 @@ If the owner cannot fill this in, the first fix is a tracking sheet. Do not skip
 
 **Measure:** cost per applicant per source.
 
-**Healthy:** $10–40 per applicant for cleaners, $30–120 for skilled trades. One source should not be more than 70% of volume.
+**Healthy:** $5–25 per applicant for cleaners, $30–120 for skilled trades. Indeed bills sponsored posts per application, typically $15–50 for most roles and $5–8 for entry-level service roles, with a $25/day minimum per post. One source should not be more than 70% of volume.
 
 **Leak signs:**
 - One free Indeed post and nothing else
-- Sponsored post running with the same copy for 60+ days (Indeed deprioritizes stale posts)
+- A free post that was never sponsored, or a sponsored post that has not been touched in 60+ days
 - No referral program for current staff
 
 **Fixes in order:**
-1. Sponsor the Indeed post with a daily budget, and repost (not edit) it every 2–3 weeks so it reads as new.
+1. Sponsor the Indeed post with a daily budget. Keep one active post per role and update it when the offer changes; Indeed ranks duplicate and frequently reposted jobs lower.
 2. Add a Facebook/Instagram job ad with a lead form to the same area. Target by zip, not interest. Use a photo of a real team member, not stock. See `ads`.
-3. Launch a referral bonus for current staff: a number, paid half at day 30 and half at day 90. Referred hires retain better than any ad source.
+3. Launch a referral bonus for current staff: a number, half paid within two weeks of the hire's start and half at day 90. Referred hires retain roughly 40% better than job-board hires and stay about 70% longer.
 4. Post in local Facebook groups and on the company page, with the same two-line offer.
 
 ## Stage 4: Speed-to-contact
 
 **Measure:** minutes from application to first outbound text or call. Percentage of applicants contacted within 15 minutes.
 
-**Healthy:** median under 15 minutes, 90% within 2 hours, including evenings and weekends.
+**Healthy:** median under 15 minutes, 90% within 2 hours, including evenings and weekends. For context, the median employer response is about a week, and hourly applicants take the first credible reply.
 
 **Leak signs:**
 - Applicants are contacted the next business day
@@ -101,26 +101,27 @@ This is usually the biggest leak and the cheapest fix. A funnel going from 30% c
 
 **Measure:** interviews booked → attended.
 
-**Healthy:** 60–75% show rate. Below 50% is a scheduling and reminder problem, not an applicant quality problem.
+**Healthy:** 80% or better with text reminders. Industry no-show averages run 30–50%, and multi-touch text reminders bring no-shows down to 8–12%. Below 50% is a scheduling and reminder problem, not an applicant quality problem.
 
 **Leak signs:**
-- Interviews booked more than 48 hours out
+- Interviews booked same-day (about 70% show) or more than 72 hours out; the 24–72 hour window shows at about 90%
 - No reminder, or one email reminder
 - Interview requires a trip to the office before any phone conversation
 - Applicant has not spoken to a human before the interview
 
 **Fixes in order:**
 1. Insert a 10-minute phone screen before any in-person interview. Book it on the first text. Five questions, then book the interview on that call.
-2. Book interviews within 48 hours. Offer two slots, not "when are you free."
+2. Book interviews 24 to 72 hours out. Offer two slots, not "when are you free." 42% of candidates drop out when scheduling drags; 55% give up if there is no interview within a week.
 3. Send three reminders: on booking, the evening before, and 2 hours before. Text, not email. Include the address and a photo of the building or a map pin.
 4. Offer a video option for the first interview for roles where it makes sense.
-5. Make the interview itself worth showing up to: a working interview or paid trial shift for cleaners and installers converts better than a sit-down.
+5. Make the interview itself worth showing up to: a paid working interview or trial shift for cleaners and installers converts better than a sit-down. Pay it at the full rate; federal law requires at least minimum wage whenever an applicant does real work.
+6. For high-volume cleaner hiring, a group interview session (6–10 applicants, pay and schedule covered once, short individual chats after) turns no-shows into an empty chair instead of an empty morning.
 
 ## Stage 6: Offer to start
 
 **Measure:** offers accepted → actually started day 1.
 
-**Healthy:** 80% or better.
+**Healthy:** 80% or better. About 1 in 5 hourly hires accept and never show on day 1; employers with automated reminders and background-check tracking report pushing day-1 attendance above 90%.
 
 **Leak signs:**
 - Silence between the offer and the start date
@@ -138,7 +139,7 @@ This is usually the biggest leak and the cheapest fix. A funnel going from 30% c
 
 **Measure:** started → still employed at day 30. Also ask every departing person why, and log it.
 
-**Healthy:** 75% or better at day 30, 60% at day 90 for cleaning; higher for trades.
+**Healthy:** 75% or better at day 30, 60% at day 90 for cleaning; higher for trades. Across frontline roles, 43% of new hires leave within 90 days, and 29% decide in the first week.
 
 **Leak signs:**
 - "They just stopped showing up" with no exit reason logged

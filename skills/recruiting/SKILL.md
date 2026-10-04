@@ -32,14 +32,14 @@ If they have no counts, do the audit anyway and make a tracking sheet the first 
 | Stage | Metric | Healthy (hourly field roles) | Usual leak |
 |-------|--------|------------------------------|------------|
 | 1. Offer | Pay vs. local market, schedule, growth | At or above the 60th percentile locally, or a clear non-pay edge | Paying market rate and calling it competitive |
-| 2. Job post | Click-to-apply rate | 8–15% on Indeed | Title nobody searches, requirements before benefits |
-| 3. Traffic | Cost per applicant | $10–40 cleaner, $30–120 trade | Running one post and waiting |
+| 2. Job post | Click-to-apply rate | 6% is the small-business median; 10%+ means the post is working | Title nobody searches, no pay listed, requirements before benefits |
+| 3. Traffic | Cost per applicant | $5–25 cleaner, $30–120 trade (Indeed bills $15–50 per application for most roles) | Running one free post and waiting |
 | 4. Speed-to-contact | Minutes from apply to first touch | Under 15 minutes, by text | Calling once, two days later, from an unknown number |
-| 5. Interview show | Booked → attended | 60–75% | No reminder, interview more than 48 hours out |
+| 5. Interview show | Booked → attended | 80%+ with text reminders; 50–70% is typical without them | No reminder, interview same-day or more than 72 hours out |
 | 6. Offer → start | Offer accepted → actually starts | 80%+ | Silence between offer and day one |
-| 7. 30-day retention | Starts → still employed at day 30 | 75%+ | No first-week structure, pay surprise, bad lead tech |
+| 7. 30-day retention | Starts → still employed at day 30 | 75%+ (43% of frontline hires leave within 90 days) | Job not as described, pay surprise, no named trainer |
 
-These are rules of thumb from service-business hiring, not laws. Use them to find the stage that is worst relative to its benchmark. That stage gets fixed first. For the full stage-by-stage diagnostic and fixes, read `references/funnel-audit.md`.
+The benchmarks come from CareerPlug's small-business data, Appcast, Indeed's own employer research, and frontline-hiring studies; the sources and what each number means are in `references/benchmarks-and-sources.md`. Use them to find the stage that is worst relative to its benchmark. That stage gets fixed first. For the full stage-by-stage diagnostic and fixes, read `references/funnel-audit.md`.
 
 ## How to Run the Audit
 
@@ -77,16 +77,16 @@ A job post is a landing page. Headline, hook, proof, call to action. Most posts 
 
 Rules:
 - **Title is the search term.** "House Cleaner" and "Residential Cleaner," not "Cleaning Technician" or "Home Care Specialist." Check what Indeed autocompletes.
-- **First two lines carry the offer.** Pay as a weekly number, hours guaranteed, start date. Those two lines are all that shows in search results.
+- **First two lines carry the offer.** Pay as a weekly number, hours guaranteed, start date. Those two lines are all that shows in search results. Indeed's data: posts with pay listed get up to 2.5x the applications.
 - **Benefits before requirements.** Four to six bullets of what they get, then two to four of what you need. Cut any requirement that is not a dealbreaker.
-- **One-tap apply.** Name and phone. No resume, no cover letter, no account creation. You will screen on the phone.
+- **One-tap apply.** Name and phone. No resume, no cover letter, no account creation. You will screen on the phone. Applications under 5 minutes complete at about 12%; over 15 minutes, under 4%.
 - **Tell them what happens next.** "You'll get a text from us within 15 minutes, even on weekends."
 
 Templates for cleaners, technicians, and office staff are in `references/job-post-templates.md`.
 
 ### 3. Text within 15 minutes, every time
 
-This is the single highest-leverage fix in most funnels. Applicants apply to five jobs in one sitting. The first business to reach them gets the interview. By the next morning, they are gone.
+This is the single highest-leverage fix in most funnels. Hourly applicants apply to several jobs in one sitting and go with the first credible response. The median employer takes about a week to reply. Texts are opened within minutes and get roughly 45% replies against 6% for email.
 
 Build it as a system, not a habit:
 1. Application triggers an **automated text within 2 minutes**: name, company, one qualifying question, and a link to book a 10-minute phone screen.
@@ -98,7 +98,9 @@ Every text comes from the same local number, signed by a real first name. Sequen
 
 ### 4. Structure the first seven days
 
-Day-30 retention is decided in week one. People quit field jobs because the first day was chaos, the pay was different than they heard, or the person training them was rude.
+Day-30 retention is decided in week one: about 29% of new hires know in the first week whether they will stay, and 70% know within the month. The top reason frontline hires leave is that the job, pay, or hours were not what was described.
+
+Working interviews and trial shifts are paid at the full job rate. Federal law requires at least minimum wage for any hours an applicant does real work, hired or not.
 
 Minimum first-week structure:
 - **Day 0** — welcome text with address, start time, what to wear, who to ask for, and the first paycheck date
@@ -108,6 +110,10 @@ Minimum first-week structure:
 - **Day 14 and 30** — same check-in, logged
 
 If the person training new hires is the one they quit over, no funnel fix helps. Ask who trains and what their retention is.
+
+## Interview Timing
+
+Book interviews 24 to 72 hours out, never same-day and never next week. Same-day bookings show at about 70%; the 24–72 hour window shows at about 90%. Send text reminders at booking, 24 hours before, and 1 hour before. That alone cuts no-shows from roughly 20% to under 12%.
 
 ## Industry Notes
 
@@ -134,6 +140,7 @@ When an owner says ads are too expensive, show them cost per retained hire again
 | [job-post-templates.md](references/job-post-templates.md) | Writing or rewriting a job post for Indeed, Facebook, or a careers page |
 | [follow-up-sequences.md](references/follow-up-sequences.md) | Building the applicant text and call sequence, with automation setup |
 | [cleaning-playbook.md](references/cleaning-playbook.md) | Hiring residential or commercial cleaners specifically |
+| [benchmarks-and-sources.md](references/benchmarks-and-sources.md) | An owner asks where a number comes from, or you need to adjust a benchmark for a market |
 
 ## Related Skills
 

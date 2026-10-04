@@ -68,13 +68,13 @@ Five questions, then book the interview or working interview on the call:
 4. "The pay is [weekly number]. Does that work for what you need?"
 5. "When could you start?"
 
-Then: "Great. I've got [Wednesday 10am] or [Thursday 2pm] for a paid working interview. Which is better?"
+Then: "Great. I've got [Wednesday 10am] or [Thursday 2pm] for a paid working interview. Which is better?" Offer slots 24 to 72 hours out; same-day bookings show at about 70%, the 24–72 hour window at about 90%.
 
 Book it. Confirm by text within a minute of hanging up.
 
 ## Interview reminders
 
-Three texts, all with the address and a map pin:
+Three texts, all with the address and a map pin. Reminders at 24 hours and 1 hour before cut no-shows from roughly 20% to under 12%:
 
 - **On booking:** "You're set for [Wed 10am] at [address]. Ask for [name]. Wear [closed-toe shoes / work clothes]. It's paid, 2 hours. [map pin]"
 - **Evening before:** "See you tomorrow at [10am], [address]. Reply if anything changed."

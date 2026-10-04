@@ -5,10 +5,10 @@ A job post is a landing page. Headline, offer, proof, call to action. These temp
 ## Rules that apply to every post
 
 - **Title = search term.** Use what applicants type, not your internal title. Check Indeed autocomplete.
-- **Lines one and two carry the offer.** Weekly pay range, guaranteed hours, start timing. Search results show only the first two lines.
+- **Lines one and two carry the offer.** Weekly pay range, guaranteed hours, start timing. Search results show only the first two lines. Indeed's data: posts with pay listed get up to 2.5x the applications.
 - **Benefits before requirements.** Four to six "what you get" bullets, then two to four "what we need" bullets.
 - **Cut requirements that are preferences.** If you train for it, do not require it.
-- **One-tap apply.** Name and phone. Screen on the phone.
+- **One-tap apply.** Name and phone. Screen on the phone. Applications under 5 minutes complete at about 12%; over 15 minutes, under 4%.
 - **Say what happens next.** "Text within 15 minutes" sets the expectation and makes your fast follow-up feel like proof.
 - **Write at a 6th-grade level.** Short sentences. No "candidate," "role," "position," or "we are seeking."
 - **No "family owned," "growing company," "competitive pay," or "fast-paced environment."**
@@ -100,7 +100,7 @@ Apply with a short note on why you want this and your phone number. Phone screen
 
 ## Facebook / Instagram ad version
 
-Shorter. One image of a real team member. Lead form with name, phone, and one question ("When can you start?").
+Shorter. One image of a real team member. Leads objective with an Instant Form: name, phone, and two or three knockout questions ("Can you work Mon–Fri days?", "When can you start?"). Employment ads fall under Meta's special ad category, so target a radius and let the ad copy do the screening.
 
 > **Hiring house cleaners in [City].** $[700–850]/week, Mon–Fri, no weekends, paid every Friday. Paid training, supplies provided. Start this week. Tap to apply, takes 30 seconds. We'll text you within 15 minutes.
 
@@ -116,7 +116,7 @@ Same post, plus:
 
 ## Post hygiene
 
-- Repost (do not edit) Indeed posts every 2–3 weeks so they rank as new.
+- Keep one active Indeed post per role and edit it when the offer changes. Indeed ranks duplicate and frequently reposted jobs lower, and free posts lose visibility as new jobs arrive, so sponsor the one post instead of reposting it.
 - Run two titles for the same role and keep the one with the higher click-to-apply.
 - Change the pay number only if the offer actually changed; do not inflate the range.
 - Reply to every applicant, including the ones you pass on. Indeed scores responsiveness.
