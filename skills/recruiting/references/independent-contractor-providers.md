@@ -111,6 +111,25 @@ Five questions, ten minutes. The goal is to confirm they can operate, not to int
 
 Then book onboarding within 24 to 72 hours and confirm by text.
 
+### Skill screen goes in the phone screen, not after it
+
+When providers are being removed for low quality rather than quitting, the leak is at intake. Ask the skill questions on the first call, before any agreement or onboarding labor, with an answer key and a pass/fail per question:
+
+1. How do you get hair off floors before you mop?
+2. How do you remove hard-water buildup from faucets or shower glass?
+3. How do you handle heavy soap scum on shower walls?
+4. What do you do before you mop?
+5. How do you get stuck-on grease off a stove or microwave?
+6. Walk me through a bathroom, step by step. Then a kitchen.
+
+Three or more misses ends the call. This costs nothing and filters before the expensive steps.
+
+### The first job is a paid, scored gate
+
+Make the first booking a real, paid job that the office scores against the post-clean checklist (photos, walkthrough, client feedback). Tell the provider it is scored. No second job until it passes. A known standard improves behavior; a secret test only catches failures after the client has already seen them. Pair the first job with a top-earning provider where the model allows it.
+
+Say it in the post: "Your first job is a paid, scored test clean. Most experienced cleaners pass. If you don't, we'll tell you why." Weak applicants self-select out.
+
 ## Onboarding sequence
 
 The gap between "yes" and first job is where providers go quiet. Most of it is paperwork. Automate it as a sequence with a visible checklist:
@@ -136,6 +155,7 @@ Track time from screen to first completed job. That number is your onboarding le
 | Docs complete → first job | Days to first job | Demand or routing, not the provider |
 | First job → 10 jobs | % reaching 10 | Pay disputes, scope surprises, fill rate |
 | Active at 90 days | % | Fill rate and payment reliability |
+| Removed for quality, by source | % of onboarded | Which channel sends cleaners who pass; fund that one |
 
 Cost per active provider at 90 days is the number that matters. A provider who onboards and never takes a second job cost more than one who was slower to onboard and stayed.
 

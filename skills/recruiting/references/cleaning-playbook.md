@@ -74,6 +74,10 @@ Then book the paid working interview 24 to 72 hours out.
 
 For high-volume hiring, ZenMaid recommends group interview sessions: 6–10 applicants at once, pay and schedule explained one time, short individual conversations after. A no-show costs an empty chair instead of an empty morning. Follow the session with the paid working interview for the people you want.
 
+## If providers are being let go for quality
+
+Turnover that comes from the company removing people is a screening failure, not a retention failure. Move the skill questions to the phone screen with an answer key, make the first job a paid and scored test clean against the post-clean checklist, and track removals by source. The full gate is in `independent-contractor-providers.md`; it applies to W-2 hires too.
+
 ## The paid working interview
 
 Two hours, paid at full rate, alongside your best lead cleaner on a real job. It replaces the sit-down interview and converts better: the applicant sees the job, you see them work, and nobody has wasted an afternoon. It must be paid: federal law requires at least minimum wage whenever an applicant does real work, hired or not, and the Department of Labor has collected back wages over unpaid working interviews.
