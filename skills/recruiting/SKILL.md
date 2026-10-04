@@ -1,6 +1,6 @@
 ---
 name: recruiting
-description: "When the user wants to audit, build, or fix a recruiting funnel for a service business — hiring cleaners, technicians, installers, crews, or office staff — including the job offer, job post, Indeed and Facebook job ads, applicant follow-up, interview show rate, and first-30-day retention. Also use when the user mentions 'hiring,' 'recruiting,' 'can't find workers,' 'nobody applies,' 'applicants ghost us,' 'no-shows,' 'job post,' 'job ad,' 'Indeed,' 'hiring funnel,' 'recruiting funnel,' 'turnover,' or 'they quit after a week.' Built for cleaning, HVAC, roofing, plumbing, landscaping, painting, and other home-service businesses; the same funnel applies to any hourly or field role. For the job offer's economics, see offers. For the ad campaigns themselves, see ads. For applicant text follow-up, see sms. For the hiring page, see cro."
+description: "When the user wants to audit, build, or fix a recruiting funnel for a service business — hiring cleaners, technicians, installers, crews, or office staff — including the job offer, job post, Indeed and Facebook job ads, applicant follow-up, interview show rate, and first-30-day retention. Covers both W-2 employees and 1099 independent contractor providers for referral platforms and marketplaces. Also use when the user mentions 'hiring,' '1099,' 'independent contractors,' 'providers,' 'subcontractors,' 'recruiting,' 'can't find workers,' 'nobody applies,' 'applicants ghost us,' 'no-shows,' 'job post,' 'job ad,' 'Indeed,' 'hiring funnel,' 'recruiting funnel,' 'turnover,' or 'they quit after a week.' Built for cleaning, HVAC, roofing, plumbing, landscaping, painting, and other home-service businesses; the same funnel applies to any hourly or field role. For the job offer's economics, see offers. For the ad campaigns themselves, see ads. For applicant text follow-up, see sms. For the hiring page, see cro."
 metadata:
   version: 1.0.0
 ---
@@ -125,6 +125,8 @@ Book interviews 24 to 72 hours out, never same-day and never next week. Same-day
 
 **Office and dispatch** roles run on a different funnel: more applicants, slower hiring, resume screening is fine. Use the same speed rule for the top 20% of applicants.
 
+**Independent contractor providers** (cleaning referral platforms, marketplaces, subcontracted crews) are recruited as small business owners, not hired as employees. The offer is clients, payment collection, and full days, not hours and training. The post, the screen, the onboarding sequence, and the retention levers all change; the control-heavy language of an employee ad undercuts both the pitch and the classification. Read `references/independent-contractor-providers.md`.
+
 ## Tracking and Reporting
 
 Report the funnel weekly in one table. Cost per applicant, cost per hire, and cost per 30-day retained hire. The last number is the only one that matters. A $20 applicant who quits in a week costs more than a $60 applicant who stays a year.
@@ -141,6 +143,7 @@ When an owner says ads are too expensive, show them cost per retained hire again
 | [follow-up-sequences.md](references/follow-up-sequences.md) | Building the applicant text and call sequence, with automation setup |
 | [cleaning-playbook.md](references/cleaning-playbook.md) | Hiring residential or commercial cleaners specifically |
 | [benchmarks-and-sources.md](references/benchmarks-and-sources.md) | An owner asks where a number comes from, or you need to adjust a benchmark for a market |
+| [independent-contractor-providers.md](references/independent-contractor-providers.md) | Recruiting 1099 providers for a referral platform or marketplace instead of W-2 employees |
 
 ## Related Skills
 

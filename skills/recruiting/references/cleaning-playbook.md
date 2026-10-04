@@ -2,6 +2,8 @@
 
 Residential and commercial cleaning is the highest-turnover, highest-volume hiring case in home services. The funnel in `funnel-audit.md` applies; this file covers what is specific to cleaners.
 
+If the company fills jobs with independent contractors rather than employees (a referral platform or marketplace model), read `independent-contractor-providers.md` first. The pay models, training, and week-one sections below assume W-2 cleaners.
+
 ## What makes cleaning different
 
 - **Turnover is structural.** Industry-wide figures run from about 42% (BLS-based) to 200%+ (ISSA's most-cited median); operators with strong training and above-market pay report 40–60%. ZenMaid's rule of thumb: one in four hires is still there a year later. The system has to run continuously, not when someone quits.
