@@ -1,0 +1,76 @@
+{
+  "skill_name": "recruiting",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "I run a house cleaning company in Omaha, 6 W-2 cleaners. Nobody applies to our Indeed post anymore and the ones who do ghost us. We pay $16/hr, 'competitive pay' in the ad, hours vary with bookings. I don't track anything. Should I just raise the Indeed budget?",
+      "expected_output": "Should not start with budget. Should ask for or build the funnel numbers first and make a tracking sheet the first deliverable when no data exists. Should diagnose the offer before the post: 'competitive pay' with no number, 'hours vary' as the biggest fear in hourly work, and pay versus the local 60th percentile. Should recommend putting a weekly pay range and guaranteed minimum hours in the first two lines of the post, since posts with pay listed get up to 2.5x applications. Should cover speed-to-contact: an automated text within minutes, since hourly applicants take the first credible responder and the median employer takes about a week. Should give one highest-leverage fix, not a list of ten, and set a one-week re-measure.",
+      "assertions": [
+        "Does not lead with increasing ad spend",
+        "Makes a tracking sheet or funnel count the first step when the owner has no data",
+        "Diagnoses the offer (no pay number, hours vary) before the job post copy",
+        "Recommends a weekly pay range and guaranteed hours in the first two lines of the post",
+        "Recommends an automated first text within minutes of application",
+        "Prescribes one fix with a re-measure date rather than a long list"
+      ],
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "We're a cleaning referral platform. Cleaners are 1099: own supplies, own insurance, paid per job weekly through Stripe, no guaranteed bookings. We do about 13 jobs a week across 9 active providers who earn $60-$350 a week. We reply to applicants within 15 minutes and onboard same day. I want to turn Indeed back on and hire 10 more cleaners. Write me the post.",
+      "expected_output": "Should recognize this as the independent contractor case and use the provider playbook, not the W-2 templates. Should challenge the premise before writing the post: 13 jobs across 9 providers is about 1.5 jobs per provider per week, so supply already exceeds demand and more recruiting adds idle providers who churn. Should recommend measuring offered-versus-accepted jobs and setting a trigger (jobs per week or declined-for-coverage count) for when paid recruiting turns on, and pointing spend at demand or recurring conversion meanwhile. If it writes the post, it should lead with 'we bring the clients, book the jobs, and collect payment,' show per-job pay as the honest number rather than an inflated weekly or hourly figure, avoid employee-control language like 'we build your route' or 'join our team,' state insurance cost and where to get it, and say 'This is 1099 independent contractor work.' Should not promise guaranteed hours or paid training.",
+      "assertions": [
+        "Identifies the 1099 provider model and does not apply W-2 levers like guaranteed hours or paid training",
+        "Checks whether demand, not supply, is the bottleneck before endorsing more recruiting",
+        "Computes or reasons about jobs per provider per week from the numbers given",
+        "Recommends a measurable trigger for turning paid recruiting on",
+        "Post leads with clients, booking, and payment collection as the provider benefit",
+        "Post uses honest per-job pay and avoids employee-control language",
+        "Post states insurance cost and that it is 1099 contractor work"
+      ],
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "We let our last three cleaners go because the quality was bad. Not that they quit, we fired them. Our phone screen takes 15 minutes and we onboard them the same day. What should I change in our hiring?",
+      "expected_output": "Should distinguish removal for quality from voluntary quits and name it a screening problem, not a retention problem. Should move skill questions (hair before mopping, hard water, soap scum, grease, bathroom step by step) into the phone screen with an answer key and a pass/fail threshold. Should make the first job a paid, scored test clean against a checklist, told to the provider rather than secret, with no second job until it passes. Should recommend tracking removals by source so the owner learns which channel sends people who pass. Should ask how the low quality showed up (complaints, checklist, no-shows), because reliability failures need a different screen (transportation, availability, cancellation strike rule) than skill failures.",
+      "assertions": [
+        "Frames fired-for-quality as a screening problem rather than a retention problem",
+        "Moves skill questions into the phone screen with pass/fail scoring",
+        "Makes the first job a paid, scored test clean before a second job is assigned",
+        "Recommends the test be disclosed rather than secret",
+        "Tracks quality removals by source",
+        "Asks whether the failures were skill or reliability and notes the fix differs"
+      ],
+      "files": []
+    },
+    {
+      "id": 4,
+      "prompt": "HVAC company, 8 techs. Our Indeed post has been up 70 days with the same copy. Someone told me to delete and repost it every two weeks so it looks new. We get applicants but they're all green, 1 year experience, and the good techs never apply. Thoughts?",
+      "expected_output": "Should advise against delete-and-repost: Indeed ranks duplicate and frequently reposted jobs lower, so keep one post per role, update it, and sponsor it. Should explain that experienced techs are employed and not browsing job boards, so traffic is the weakest lever for trades; the strongest are the offer (schedule, no on-call, take-home truck, visible path to lead, paid licensing) and direct outreach plus referrals from current techs with a bonus split at start and 90 days. Should keep the process to three or fewer interview rounds. Should not recommend lowering the experience bar as the primary fix.",
+      "assertions": [
+        "Advises against deleting and reposting the Indeed job",
+        "Recommends updating and sponsoring a single post per role",
+        "Explains that experienced techs are not on job boards and shifts emphasis to offer and referrals",
+        "Names trade-specific offer levers such as schedule, no on-call, truck, or path to lead",
+        "Recommends a referral bonus from current techs with a split payout",
+        "Keeps the interview process short"
+      ],
+      "files": []
+    },
+    {
+      "id": 5,
+      "prompt": "Our interview show rate is awful, maybe 40%. We book them for whenever they say they're free, usually a week out, and send one email reminder. Applicants come from Facebook and Indeed. How do I fix it?",
+      "expected_output": "Should call this a scheduling and reminder problem rather than an applicant-quality problem. Should recommend booking 24 to 72 hours out, not same-day and not a week out, offering two slots rather than open-ended availability. Should recommend three text reminders (on booking, the evening before or 24 hours, and one to two hours before) with the address and a map pin, since text reminders cut no-shows from roughly 20% to under 12%. Should recommend a short phone screen before any in-person interview, and a paid working interview or trial shift for field roles, noting that any real work must be paid at least minimum wage. Should set a target show rate of 80% or better.",
+      "assertions": [
+        "Attributes the low show rate to scheduling and reminders rather than applicant quality",
+        "Recommends booking interviews 24 to 72 hours out with two offered slots",
+        "Recommends multiple text reminders including one shortly before the interview",
+        "Recommends a phone screen before the in-person interview",
+        "States that a working interview or trial shift must be paid",
+        "Sets a show-rate target around 80% or higher"
+      ],
+      "files": []
+    }
+  ]
+}
