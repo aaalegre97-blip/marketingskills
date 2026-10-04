@@ -108,6 +108,7 @@ See each skill's **Related Skills** section for the full dependency map.
 | [programmatic-seo](skills/programmatic-seo/) | When the user wants to create SEO-driven pages at scale using templates and data. Also use when the user mentions... |
 | [prospecting](skills/prospecting/) | When the user wants to find, qualify, and build a list of prospects to reach out to — across B2B SaaS, general B2B, or... |
 | [public-relations](skills/public-relations/) | When the user wants help with public relations, earned media, press coverage, journalist outreach, or media strategy... |
+| [recruiting](skills/recruiting/) | When the user wants to audit, build, or fix a recruiting funnel for a service business — hiring cleaners, technicians,... |
 | [referrals](skills/referrals/) | When the user wants to create, optimize, or analyze a referral program, affiliate program, or word-of-mouth strategy.... |
 | [revops](skills/revops/) | When the user wants help with revenue operations, lead lifecycle management, or marketing-to-sales handoff processes.... |
 | [sales-enablement](skills/sales-enablement/) | When the user wants to create sales collateral, pitch decks, one-pagers, objection handling docs, or demo scripts. Also... |
@@ -351,6 +352,7 @@ You can also invoke skills directly:
 ### Sales & RevOps
 - `revops` - Lead lifecycle, scoring, routing, pipeline management
 - `sales-enablement` - Sales decks, one-pagers, objection docs, demo scripts
+- `recruiting` - Hiring funnels for service businesses: job offer, job post, applicant follow-up, retention
 
 ## Contributing
 

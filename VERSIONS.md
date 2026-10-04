@@ -44,6 +44,7 @@ Current versions of all skills. Agents can compare against local versions to che
 | programmatic-seo | 2.0.0 | 2026-05-05 |
 | prospecting | 1.1.2 | 2026-10-02 |
 | public-relations | 1.2.0 | 2026-10-02 |
+| recruiting | 1.0.0 | 2026-10-04 |
 | referrals | 2.0.2 | 2026-10-02 |
 | revops | 2.0.1 | 2026-10-02 |
 | sales-enablement | 2.3.2 | 2026-10-02 |
@@ -56,6 +57,10 @@ Current versions of all skills. Agents can compare against local versions to che
 | video | 2.2.1 | 2026-10-02 |
 
 ## Recent Changes
+
+### 2.12.0 (2026-10-04)
+
+- **recruiting** (new, 1.0.0): a hiring-funnel skill for service businesses (cleaning, HVAC, roofing, plumbing, landscaping, painting). Treats the applicant as the lead and the job as the offer: a seven-stage audit (offer, job post, traffic, speed-to-contact, interview show rate, offer-to-start, 30-day retention) with benchmarks for hourly field roles and fixes in order of leverage. References: `funnel-audit.md` (stage-by-stage diagnostic), `job-offer.md` (non-pay levers for field roles), `job-post-templates.md` (cleaner, technician, crew, and office posts plus Facebook and careers-page versions), `follow-up-sequences.md` (the 4-touch applicant text sequence, phone screen script, reminders, and an automation map), and `cleaning-playbook.md` (pay models, phone screen, paid working interview, week-one structure, and weekly targets for cleaning companies). Points to `offers`, `ads`, `sms`, and `cro` for the pieces they already cover.
 
 ### 2.11.17 (2026-10-02)
 
