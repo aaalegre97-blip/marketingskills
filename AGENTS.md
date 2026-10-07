@@ -277,3 +277,37 @@ Recent commits: !`git log --oneline -5 2>/dev/null`
 ```
 
 **Why this is Claude Code-only**: Other agents that load skills will see the literal `` !`command` `` string rather than executing it, which would appear as garbled instructions. Keep cross-agent skill files free of this syntax.
+
+## Which Ads Tool to Use (Alegre Solutions routing rule)
+
+Two repos handle ad work. Pick by **where the problem lives**, then say which one you're using and why in one line before starting.
+
+- **claude-ads** (`aaalegre97-blip/claude-ads`): the **ad account manager**. Use for anything inside Ads Manager.
+- **marketingskills** (`aaalegre97-blip/marketingskills`): the **marketer**. Use for the message before the click and the follow-up after the lead.
+
+**Rule of thumb:** inside Ads Manager → claude-ads. Before the click or after the lead → marketingskills.
+
+| The user says or needs… | Use | Skill / command |
+|---|---|---|
+| New client, brand, account setup | claude-ads | `/ads setup` |
+| "What's wrong with this account?", audit, wasted spend | claude-ads | `/ads audit meta` (or other platform) |
+| Budget, campaign structure, channel plan | claude-ads | `/ads plan`, `/ads budget` |
+| Fatigue, pacing, overspend, "is it still working?" | claude-ads | `/ads monitor` |
+| Kill / keep / scale decisions | claude-ads | `/ads optimize --draft` |
+| A/B test design or readout | claude-ads | `/ads test` |
+| Pixel, conversions API, tracking broken | claude-ads | `/ads tracking` |
+| Review a finished ad before launch | claude-ads | `/ads creative` |
+| Client performance report | claude-ads | `/ads report` |
+| Hooks, headlines, primary text, static ad layouts | marketingskills | `ad-creative` |
+| Offer is weak (guarantee, bonus, urgency, pricing) | marketingskills | `offers`, `pricing` |
+| Landing page not converting | marketingskills | `cro` |
+| Speed-to-lead texts, lead follow-up | marketingskills | `sms` |
+| Email nurture for leads that didn't book | marketingskills | `emails` |
+| Sales scripts, objection handling | marketingskills | `sales-enablement` |
+| Hiring cleaners or techs | marketingskills | `recruiting` |
+
+**Making a static ad (full flow):** `offers` → `ad-creative` (copy + layout) → build the image as HTML and export to PNG → `/ads creative` (pre-launch check) → after launch, `/ads audit meta` → `sms` / `emails` for follow-up.
+
+**If the needed repo isn't in this session:** say which repo and skill is the right one and offer to attach it. Don't silently fall back to the wrong tool.
+
+**Known gap:** neither repo has contractor-specific kill/scale thresholds or cost-per-booked-job targets. Flag this when giving kill/scale advice and judge against cost per booked job, not cost per lead.
